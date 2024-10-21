@@ -1,0 +1,2306 @@
+Skipping preamble byte 0 (05)
+Skipping preamble byte 1 (06)
+Skipping preamble byte 2 (43)
+Skipping preamble byte 3 (48)
+Skipping preamble byte 4 (47)
+Skipping preamble byte 5 (47)
+Skipping preamble byte 6 (52)
+Skipping preamble byte 7 (45)
+Found 08F9 bytes
+Byte: 0000:01 Ignored
+Byte: 0001:00 Ignored
+Byte: 0002:00 Ignored
+Byte: 0003:52 Ignored
+Byte: 0004:00 '        '
+Byte: 0005:00 '        '
+Byte: 0006:00 '        '
+Byte: 0007:00 '        '
+Byte: 0008:31 '  **   *'
+Byte: 0009:4A ' *  * * '
+Byte: 000A:44 ' *   *  '
+Byte: 000B:4A ' *  * * '
+Byte: 000C:31 '  **   *'
+Byte: 000D:00 '        '
+Byte: 000E:00 '        '
+Byte: 000F:
+Byte: 0010:2A Ignored
+Byte: 0011:FE Ignored
+Byte: 0012:2C Ignored
+Byte: 0013:28 Ignored
+Byte: 0014:00 '        '
+Byte: 0015:00 '        '
+Byte: 0016:00 '        '
+Byte: 0017:3C '  ****  '
+Byte: 0018:22 '  *   * '
+Byte: 0019:3C '  ****  '
+Byte: 001A:22 '  *   * '
+Byte: 001B:22 '  *   * '
+Byte: 001C:3C '  ****  '
+Byte: 001D:20 '  *     '
+Byte: 001E:20 '  *     '
+Byte: 001F:
+Byte: 0020:1A Ignored
+Byte: 0021:28 Ignored
+Byte: 0022:04 Ignored
+Byte: 0023:FE Ignored
+Byte: 0024:00 '        '
+Byte: 0025:61 ' **    *'
+Byte: 0026:12 '   *  * '
+Byte: 0027:14 '   * *  '
+Byte: 0028:18 '   **   '
+Byte: 0029:10 '   *    '
+Byte: 002A:30 '  **    '
+Byte: 002B:30 '  **    '
+Byte: 002C:30 '  **    '
+Byte: 002D:00 '        '
+Byte: 002E:00 '        '
+Byte: 002F:
+Byte: 0030:50 Ignored
+Byte: 0031:59 Ignored
+Byte: 0032:44 Ignored
+Byte: 0033:4D Ignored
+Byte: 0034:30 '  **    '
+Byte: 0035:48 ' *  *   '
+Byte: 0036:40 ' *      '
+Byte: 0037:40 ' *      '
+Byte: 0038:20 '  *     '
+Byte: 0039:30 '  **    '
+Byte: 003A:48 ' *  *   '
+Byte: 003B:48 ' *  *   '
+Byte: 003C:30 '  **    '
+Byte: 003D:00 '        '
+Byte: 003E:00 '        '
+Byte: 003F:
+Byte: 0040:4D Ignored
+Byte: 0041:23 Ignored
+Byte: 0042:23 Ignored
+Byte: 0043:5E Ignored
+Byte: 0044:00 '        '
+Byte: 0045:00 '        '
+Byte: 0046:18 '   **   '
+Byte: 0047:20 '  *     '
+Byte: 0048:40 ' *      '
+Byte: 0049:78 ' ****   '
+Byte: 004A:40 ' *      '
+Byte: 004B:20 '  *     '
+Byte: 004C:18 '   **   '
+Byte: 004D:00 '        '
+Byte: 004E:00 '        '
+Byte: 004F:
+Byte: 0050:33 Ignored
+Byte: 0051:00 Ignored
+Byte: 0052:3E Ignored
+Byte: 0053:1D Ignored
+Byte: 0054:00 '        '
+Byte: 0055:00 '        '
+Byte: 0056:16 '   * ** '
+Byte: 0057:0E '    *** '
+Byte: 0058:10 '   *    '
+Byte: 0059:20 '  *     '
+Byte: 005A:40 ' *      '
+Byte: 005B:40 ' *      '
+Byte: 005C:38 '  ***   '
+Byte: 005D:04 '     *  '
+Byte: 005E:18 '   **   '
+Byte: 005F:
+Byte: 0060:3C Ignored
+Byte: 0061:38 Ignored
+Byte: 0062:12 Ignored
+Byte: 0063:06 Ignored
+Byte: 0064:00 '        '
+Byte: 0065:00 '        '
+Byte: 0066:00 '        '
+Byte: 0067:00 '        '
+Byte: 0068:2C '  * **  '
+Byte: 0069:52 ' * *  * '
+Byte: 006A:12 '   *  * '
+Byte: 006B:12 '   *  * '
+Byte: 006C:12 '   *  * '
+Byte: 006D:02 '      * '
+Byte: 006E:02 '      * '
+Byte: 006F:
+Byte: 0070:3E Ignored
+Byte: 0071:1B Ignored
+Byte: 0072:CD Ignored
+Byte: 0073:33 Ignored
+Byte: 0074:1C '   ***  '
+Byte: 0075:22 '  *   * '
+Byte: 0076:41 ' *     *'
+Byte: 0077:41 ' *     *'
+Byte: 0078:7F ' *******'
+Byte: 0079:41 ' *     *'
+Byte: 007A:41 ' *     *'
+Byte: 007B:22 '  *   * '
+Byte: 007C:1C '   ***  '
+Byte: 007D:00 '        '
+Byte: 007E:00 '        '
+Byte: 007F:
+Byte: 0080:44 Ignored
+Byte: 0081:59 Ignored
+Byte: 0082:20 Ignored
+Byte: 0083:20 Ignored
+Byte: 0084:00 '        '
+Byte: 0085:00 '        '
+Byte: 0086:00 '        '
+Byte: 0087:40 ' *      '
+Byte: 0088:40 ' *      '
+Byte: 0089:40 ' *      '
+Byte: 008A:40 ' *      '
+Byte: 008B:48 ' *  *   '
+Byte: 008C:30 '  **    '
+Byte: 008D:00 '        '
+Byte: 008E:00 '        '
+Byte: 008F:
+Byte: 0090:21 Ignored
+Byte: 0091:58 Ignored
+Byte: 0092:5D Ignored
+Byte: 0093:FE Ignored
+Byte: 0094:00 '        '
+Byte: 0095:00 '        '
+Byte: 0096:40 ' *      '
+Byte: 0097:48 ' *  *   '
+Byte: 0098:50 ' * *    '
+Byte: 0099:60 ' **     '
+Byte: 009A:50 ' * *    '
+Byte: 009B:4A ' *  * * '
+Byte: 009C:44 ' *   *  '
+Byte: 009D:00 '        '
+Byte: 009E:00 '        '
+Byte: 009F:
+Byte: 00A0:5D Ignored
+Byte: 00A1:FE Ignored
+Byte: 00A2:44 Ignored
+Byte: 00A3:20 Ignored
+Byte: 00A4:40 ' *      '
+Byte: 00A5:20 '  *     '
+Byte: 00A6:10 '   *    '
+Byte: 00A7:10 '   *    '
+Byte: 00A8:10 '   *    '
+Byte: 00A9:10 '   *    '
+Byte: 00AA:18 '   **   '
+Byte: 00AB:24 '  *  *  '
+Byte: 00AC:42 ' *    * '
+Byte: 00AD:00 '        '
+Byte: 00AE:00 '        '
+Byte: 00AF:
+Byte: 00B0:53 Ignored
+Byte: 00B1:E1 Ignored
+Byte: 00B2:E5 Ignored
+Byte: 00B3:D7 Ignored
+Byte: 00B4:00 '        '
+Byte: 00B5:00 '        '
+Byte: 00B6:00 '        '
+Byte: 00B7:44 ' *   *  '
+Byte: 00B8:44 ' *   *  '
+Byte: 00B9:44 ' *   *  '
+Byte: 00BA:44 ' *   *  '
+Byte: 00BB:44 ' *   *  '
+Byte: 00BC:7A ' **** * '
+Byte: 00BD:40 ' *      '
+Byte: 00BE:40 ' *      '
+Byte: 00BF:
+Byte: 00C0:C6 Ignored
+Byte: 00C1:05 Ignored
+Byte: 00C2:B9 Ignored
+Byte: 00C3:D2 Ignored
+Byte: 00C4:00 '        '
+Byte: 00C5:00 '        '
+Byte: 00C6:00 '        '
+Byte: 00C7:62 ' **   * '
+Byte: 00C8:22 '  *   * '
+Byte: 00C9:24 '  *  *  '
+Byte: 00CA:28 '  * *   '
+Byte: 00CB:30 '  **    '
+Byte: 00CC:20 '  *     '
+Byte: 00CD:00 '        '
+Byte: 00CE:00 '        '
+Byte: 00CF:
+Byte: 00D0:09 Ignored
+Byte: 00D1:85 Ignored
+Byte: 00D2:5F Ignored
+Byte: 00D3:7C Ignored
+Byte: 00D4:00 '        '
+Byte: 00D5:00 '        '
+Byte: 00D6:08 '    *   '
+Byte: 00D7:1C '   ***  '
+Byte: 00D8:20 '  *     '
+Byte: 00D9:18 '   **   '
+Byte: 00DA:20 '  *     '
+Byte: 00DB:40 ' *      '
+Byte: 00DC:3C '  ****  '
+Byte: 00DD:02 '      * '
+Byte: 00DE:0C '    **  '
+Byte: 00DF:
+Byte: 00E0:B0 Ignored
+Byte: 00E1:C1 Ignored
+Byte: 00E2:D1 Ignored
+Byte: 00E3:E1 Ignored
+Byte: 00E4:00 '        '
+Byte: 00E5:00 '        '
+Byte: 00E6:00 '        '
+Byte: 00E7:18 '   **   '
+Byte: 00E8:24 '  *  *  '
+Byte: 00E9:42 ' *    * '
+Byte: 00EA:42 ' *    * '
+Byte: 00EB:24 '  *  *  '
+Byte: 00EC:18 '   **   '
+Byte: 00ED:00 '        '
+Byte: 00EE:00 '        '
+Byte: 00EF:
+Byte: 00F0:18 Ignored
+Byte: 00F1:3E Ignored
+Byte: 00F2:8E Ignored
+Byte: 00F3:D1 Ignored
+Byte: 00F4:00 '        '
+Byte: 00F5:00 '        '
+Byte: 00F6:00 '        '
+Byte: 00F7:3F '  ******'
+Byte: 00F8:54 ' * * *  '
+Byte: 00F9:14 '   * *  '
+Byte: 00FA:14 '   * *  '
+Byte: 00FB:14 '   * *  '
+Byte: 00FC:14 '   * *  '
+Byte: 00FD:00 '        '
+Byte: 00FE:00 '        '
+Byte: 00FF:
+Byte: 0100:D7 Ignored
+Byte: 0101:F1 Ignored
+Byte: 0102:01 Ignored
+Byte: 0103:00 Ignored
+Byte: 0104:FE Ignored
+Byte: 0105:52 Ignored
+Byte: 0106:CD Ignored
+Byte: 0107:84 Ignored
+Byte: 0108:00 '        '
+Byte: 0109:00 '        '
+Byte: 010A:00 '        '
+Byte: 010B:00 '        '
+Byte: 010C:18 '   **   '
+Byte: 010D:24 '  *  *  '
+Byte: 010E:42 ' *    * '
+Byte: 010F:64 ' **  *  '
+Byte: 0110:58 ' * **   '
+Byte: 0111:40 ' *      '
+Byte: 0112:40 ' *      '
+Byte: 0113:
+Byte: 0114:20 Ignored
+Byte: 0115:D1 Ignored
+Byte: 0116:D7 Ignored
+Byte: 0117:FE Ignored
+Byte: 0118:00 '        '
+Byte: 0119:00 '        '
+Byte: 011A:00 '        '
+Byte: 011B:1F '   *****'
+Byte: 011C:24 '  *  *  '
+Byte: 011D:42 ' *    * '
+Byte: 011E:42 ' *    * '
+Byte: 011F:24 '  *  *  '
+Byte: 0120:18 '   **   '
+Byte: 0121:00 '        '
+Byte: 0122:00 '        '
+Byte: 0123:
+Byte: 0124:28 Ignored
+Byte: 0125:C8 Ignored
+Byte: 0126:FE Ignored
+Byte: 0127:0D Ignored
+Byte: 0128:00 '        '
+Byte: 0129:00 '        '
+Byte: 012A:00 '        '
+Byte: 012B:3F '  ******'
+Byte: 012C:48 ' *  *   '
+Byte: 012D:08 '    *   '
+Byte: 012E:08 '    *   '
+Byte: 012F:08 '    *   '
+Byte: 0130:08 '    *   '
+Byte: 0131:00 '        '
+Byte: 0132:00 '        '
+Byte: 0133:
+Byte: 0134:10 Ignored
+Byte: 0135:FB Ignored
+Byte: 0136:ED Ignored
+Byte: 0137:5B Ignored
+Byte: 0138:00 '        '
+Byte: 0139:00 '        '
+Byte: 013A:00 '        '
+Byte: 013B:62 ' **   * '
+Byte: 013C:24 '  *  *  '
+Byte: 013D:24 '  *  *  '
+Byte: 013E:24 '  *  *  '
+Byte: 013F:24 '  *  *  '
+Byte: 0140:18 '   **   '
+Byte: 0141:00 '        '
+Byte: 0142:00 '        '
+Byte: 0143:
+Byte: 0144:00 Ignored
+Byte: 0145:09 Ignored
+Byte: 0146:EB Ignored
+Byte: 0147:ED Ignored
+Byte: 0148:08 '    *   '
+Byte: 0149:08 '    *   '
+Byte: 014A:1C '   ***  '
+Byte: 014B:2A '  * * * '
+Byte: 014C:2A '  * * * '
+Byte: 014D:2A '  * * * '
+Byte: 014E:1C '   ***  '
+Byte: 014F:08 '    *   '
+Byte: 0150:08 '    *   '
+Byte: 0151:00 '        '
+Byte: 0152:00 '        '
+Byte: 0153:
+Byte: 0154:7E Ignored
+Byte: 0155:EE Ignored
+Byte: 0156:A5 Ignored
+Byte: 0157:C0 Ignored
+Byte: 0158:00 '        '
+Byte: 0159:00 '        '
+Byte: 015A:00 '        '
+Byte: 015B:01 '       *'
+Byte: 015C:62 ' **   * '
+Byte: 015D:14 '   * *  '
+Byte: 015E:08 '    *   '
+Byte: 015F:14 '   * *  '
+Byte: 0160:23 '  *   **'
+Byte: 0161:00 '        '
+Byte: 0162:00 '        '
+Byte: 0163:
+Byte: 0164:77 Ignored
+Byte: 0165:13 Ignored
+Byte: 0166:23 Ignored
+Byte: 0167:7A Ignored
+Byte: 0168:08 '    *   '
+Byte: 0169:49 ' *  *  *'
+Byte: 016A:2A '  * * * '
+Byte: 016B:2A '  * * * '
+Byte: 016C:2A '  * * * '
+Byte: 016D:1C '   ***  '
+Byte: 016E:08 '    *   '
+Byte: 016F:08 '    *   '
+Byte: 0170:08 '    *   '
+Byte: 0171:00 '        '
+Byte: 0172:00 '        '
+Byte: 0173:
+Byte: 0174:F6 Ignored
+Byte: 0175:C9 Ignored
+Byte: 0176:CA Ignored
+Byte: 0177:4A Ignored
+Byte: 0178:00 '        '
+Byte: 0179:00 '        '
+Byte: 017A:00 '        '
+Byte: 017B:22 '  *   * '
+Byte: 017C:41 ' *     *'
+Byte: 017D:49 ' *  *  *'
+Byte: 017E:49 ' *  *  *'
+Byte: 017F:49 ' *  *  *'
+Byte: 0180:36 '  ** ** '
+Byte: 0181:00 '        '
+Byte: 0182:00 '        '
+Byte: 0183:
+Byte: 0184:56 Ignored
+Byte: 0185:EB Ignored
+Byte: 0186:11 Ignored
+Byte: 0187:18 Ignored
+Byte: 0188:00 '        '
+Byte: 0189:1C '   ***  '
+Byte: 018A:22 '  *   * '
+Byte: 018B:41 ' *     *'
+Byte: 018C:41 ' *     *'
+Byte: 018D:41 ' *     *'
+Byte: 018E:22 '  *   * '
+Byte: 018F:22 '  *   * '
+Byte: 0190:63 ' **   **'
+Byte: 0191:00 '        '
+Byte: 0192:00 '        '
+Byte: 0193:
+Byte: 0194:1A Ignored
+Byte: 0195:FE Ignored
+Byte: 0196:20 Ignored
+Byte: 0197:28 Ignored
+Byte: 0198:1F '   *****'
+Byte: 0199:10 '   *    '
+Byte: 019A:10 '   *    '
+Byte: 019B:10 '   *    '
+Byte: 019C:10 '   *    '
+Byte: 019D:10 '   *    '
+Byte: 019E:10 '   *    '
+Byte: 019F:10 '   *    '
+Byte: 01A0:50 ' * *    '
+Byte: 01A1:30 '  **    '
+Byte: 01A2:10 '   *    '
+Byte: 01A3:
+Byte: 01A4:03 Ignored
+Byte: 01A5:C2 Ignored
+Byte: 01A6:4A Ignored
+Byte: 01A7:1E Ignored
+Byte: 01A8:00 '        '
+Byte: 01A9:00 '        '
+Byte: 01AA:00 '        '
+Byte: 01AB:04 '     *  '
+Byte: 01AC:02 '      * '
+Byte: 01AD:7F ' *******'
+Byte: 01AE:02 '      * '
+Byte: 01AF:04 '     *  '
+Byte: 01B0:00 '        '
+Byte: 01B1:00 '        '
+Byte: 01B2:00 '        '
+Byte: 01B3:
+Byte: 01B4:22 Ignored
+Byte: 01B5:F8 Ignored
+Byte: 01B6:54 Ignored
+Byte: 01B7:3A Ignored
+Byte: 01B8:00 '        '
+Byte: 01B9:00 '        '
+Byte: 01BA:10 '   *    '
+Byte: 01BB:20 '  *     '
+Byte: 01BC:7F ' *******'
+Byte: 01BD:20 '  *     '
+Byte: 01BE:10 '   *    '
+Byte: 01BF:00 '        '
+Byte: 01C0:00 '        '
+Byte: 01C1:00 '        '
+Byte: 01C2:00 '        '
+Byte: 01C3:
+Byte: 01C4:0A Ignored
+Byte: 01C5:44 Ignored
+Byte: 01C6:22 Ignored
+Byte: 01C7:09 Ignored
+Byte: 01C8:08 '    *   '
+Byte: 01C9:1C '   ***  '
+Byte: 01CA:2A '  * * * '
+Byte: 01CB:08 '    *   '
+Byte: 01CC:08 '    *   '
+Byte: 01CD:08 '    *   '
+Byte: 01CE:08 '    *   '
+Byte: 01CF:08 '    *   '
+Byte: 01D0:08 '    *   '
+Byte: 01D1:00 '        '
+Byte: 01D2:00 '        '
+Byte: 01D3:
+Byte: 01D4:5B Ignored
+Byte: 01D5:22 Ignored
+Byte: 01D6:13 Ignored
+Byte: 01D7:43 Ignored
+Byte: 01D8:00 '        '
+Byte: 01D9:00 '        '
+Byte: 01DA:08 '    *   '
+Byte: 01DB:00 '        '
+Byte: 01DC:7F ' *******'
+Byte: 01DD:00 '        '
+Byte: 01DE:08 '    *   '
+Byte: 01DF:00 '        '
+Byte: 01E0:00 '        '
+Byte: 01E1:00 '        '
+Byte: 01E2:00 '        '
+Byte: 01E3:
+Byte: 01E4:52 Ignored
+Byte: 01E5:22 Ignored
+Byte: 01E6:D5 Ignored
+Byte: 01E7:53 Ignored
+Byte: 01E8:7F ' *******'
+Byte: 01E9:20 '  *     '
+Byte: 01EA:10 '   *    '
+Byte: 01EB:08 '    *   '
+Byte: 01EC:06 '     ** '
+Byte: 01ED:08 '    *   '
+Byte: 01EE:10 '   *    '
+Byte: 01EF:20 '  *     '
+Byte: 01F0:7F ' *******'
+Byte: 01F1:00 '        '
+Byte: 01F2:00 '        '
+Byte: 01F3:
+Byte: 01F4:ED Ignored
+Byte: 01F5:42 Ignored
+Byte: 01F6:22 Ignored
+Byte: 01F7:D3 Ignored
+Byte: 01F8:00 '        '
+Byte: 01F9:30 '  **    '
+Byte: 01FA:49 ' *  *  *'
+Byte: 01FB:06 '     ** '
+Byte: 01FC:30 '  **    '
+Byte: 01FD:49 ' *  *  *'
+Byte: 01FE:06 '     ** '
+Byte: 01FF:00 '        '
+Byte: 0200:00 '        '
+Byte: 0201:00 '        '
+Byte: 0202:00 '        '
+Byte: 0203:
+Byte: 0204:01 Ignored
+Byte: 0205:00 Ignored
+Byte: 0206:FC Ignored
+Byte: 0207:53 Ignored
+Byte: 0208:D1 '** *   *'
+Byte: 0209:2A '  * * * '
+Byte: 020A:D6 '** * ** '
+Byte: 020B:54 ' * * *  '
+Byte: 020C:00 '        '
+Byte: 020D:00 '        '
+Byte: 020E:00 '        '
+Byte: 020F:00 '        '
+Byte: 0210:00 '        '
+Byte: 0211:00 '        '
+Byte: 0212:00 '        '
+Byte: 0213:
+Byte: 0214:00 Ignored
+Byte: 0215:00 Ignored
+Byte: 0216:00 Ignored
+Byte: 0217:00 Ignored
+Byte: 0218:EB Ignored
+Byte: 0219:B7 Ignored
+Byte: 021A:ED Ignored
+Byte: 021B:52 Ignored
+Byte: 021C:08 '    *   '
+Byte: 021D:08 '    *   '
+Byte: 021E:08 '    *   '
+Byte: 021F:08 '    *   '
+Byte: 0220:08 '    *   '
+Byte: 0221:08 '    *   '
+Byte: 0222:00 '        '
+Byte: 0223:08 '    *   '
+Byte: 0224:08 '    *   '
+Byte: 0225:00 '        '
+Byte: 0226:00 '        '
+Byte: 0227:
+Byte: 0228:22 Ignored
+Byte: 0229:31 Ignored
+Byte: 022A:40 Ignored
+Byte: 022B:3E Ignored
+Byte: 022C:24 '  *  *  '
+Byte: 022D:24 '  *  *  '
+Byte: 022E:24 '  *  *  '
+Byte: 022F:00 '        '
+Byte: 0230:00 '        '
+Byte: 0231:00 '        '
+Byte: 0232:00 '        '
+Byte: 0233:00 '        '
+Byte: 0234:00 '        '
+Byte: 0235:00 '        '
+Byte: 0236:00 '        '
+Byte: 0237:
+Byte: 0238:E1 Ignored
+Byte: 0239:ED Ignored
+Byte: 023A:B0 Ignored
+Byte: 023B:21 Ignored
+Byte: 023C:14 '   * *  '
+Byte: 023D:14 '   * *  '
+Byte: 023E:14 '   * *  '
+Byte: 023F:7F ' *******'
+Byte: 0240:14 '   * *  '
+Byte: 0241:7F ' *******'
+Byte: 0242:14 '   * *  '
+Byte: 0243:14 '   * *  '
+Byte: 0244:14 '   * *  '
+Byte: 0245:00 '        '
+Byte: 0246:00 '        '
+Byte: 0247:
+Byte: 0248:53 Ignored
+Byte: 0249:21 Ignored
+Byte: 024A:18 Ignored
+Byte: 024B:43 Ignored
+Byte: 024C:14 '   * *  '
+Byte: 024D:3F '  ******'
+Byte: 024E:54 ' * * *  '
+Byte: 024F:54 ' * * *  '
+Byte: 0250:3E '  ***** '
+Byte: 0251:15 '   * * *'
+Byte: 0252:15 '   * * *'
+Byte: 0253:7E ' ****** '
+Byte: 0254:14 '   * *  '
+Byte: 0255:00 '        '
+Byte: 0256:00 '        '
+Byte: 0257:
+Byte: 0258:06 Ignored
+Byte: 0259:01 Ignored
+Byte: 025A:31 Ignored
+Byte: 025B:FC Ignored
+Byte: 025C:20 '  *     '
+Byte: 025D:51 ' * *   *'
+Byte: 025E:22 '  *   * '
+Byte: 025F:04 '     *  '
+Byte: 0260:08 '    *   '
+Byte: 0261:10 '   *    '
+Byte: 0262:22 '  *   * '
+Byte: 0263:45 ' *   * *'
+Byte: 0264:02 '      * '
+Byte: 0265:00 '        '
+Byte: 0266:00 '        '
+Byte: 0267:
+Byte: 0268:B0 Ignored
+Byte: 0269:C3 Ignored
+Byte: 026A:E0 Ignored
+Byte: 026B:54 Ignored
+Byte: 026C:38 '  ***   '
+Byte: 026D:44 ' *   *  '
+Byte: 026E:44 ' *   *  '
+Byte: 026F:28 '  * *   '
+Byte: 0270:10 '   *    '
+Byte: 0271:29 '  * *  *'
+Byte: 0272:46 ' *   ** '
+Byte: 0273:46 ' *   ** '
+Byte: 0274:39 '  ***  *'
+Byte: 0275:00 '        '
+Byte: 0276:00 '        '
+Byte: 0277:
+Byte: 0278:C5 Ignored
+Byte: 0279:ED Ignored
+Byte: 027A:5B Ignored
+Byte: 027B:B0 Ignored
+Byte: 027C:0C '    **  '
+Byte: 027D:0C '    **  '
+Byte: 027E:08 '    *   '
+Byte: 027F:10 '   *    '
+Byte: 0280:00 '        '
+Byte: 0281:00 '        '
+Byte: 0282:00 '        '
+Byte: 0283:00 '        '
+Byte: 0284:00 '        '
+Byte: 0285:00 '        '
+Byte: 0286:00 '        '
+Byte: 0287:
+Byte: 0288:40 Ignored
+Byte: 0289:21 Ignored
+Byte: 028A:A3 Ignored
+Byte: 028B:EF Ignored
+Byte: 028C:04 '     *  '
+Byte: 028D:08 '    *   '
+Byte: 028E:10 '   *    '
+Byte: 028F:10 '   *    '
+Byte: 0290:10 '   *    '
+Byte: 0291:10 '   *    '
+Byte: 0292:10 '   *    '
+Byte: 0293:08 '    *   '
+Byte: 0294:04 '     *  '
+Byte: 0295:00 '        '
+Byte: 0296:00 '        '
+Byte: 0297:
+Byte: 0298:0A Ignored
+Byte: 0299:44 Ignored
+Byte: 029A:21 Ignored
+Byte: 029B:A4 Ignored
+Byte: 029C:10 '   *    '
+Byte: 029D:08 '    *   '
+Byte: 029E:04 '     *  '
+Byte: 029F:04 '     *  '
+Byte: 02A0:04 '     *  '
+Byte: 02A1:04 '     *  '
+Byte: 02A2:04 '     *  '
+Byte: 02A3:08 '    *   '
+Byte: 02A4:10 '   *    '
+Byte: 02A5:00 '        '
+Byte: 02A6:00 '        '
+Byte: 02A7:
+Byte: 02A8:E1 Ignored
+Byte: 02A9:C9 Ignored
+Byte: 02AA:10 Ignored
+Byte: 02AB:06 Ignored
+Byte: 02AC:08 '    *   '
+Byte: 02AD:49 ' *  *  *'
+Byte: 02AE:2A '  * * * '
+Byte: 02AF:1C '   ***  '
+Byte: 02B0:7F ' *******'
+Byte: 02B1:1C '   ***  '
+Byte: 02B2:2A '  * * * '
+Byte: 02B3:49 ' *  *  *'
+Byte: 02B4:08 '    *   '
+Byte: 02B5:00 '        '
+Byte: 02B6:00 '        '
+Byte: 02B7:
+Byte: 02B8:5B Ignored
+Byte: 02B9:A4 Ignored
+Byte: 02BA:40 Ignored
+Byte: 02BB:ED Ignored
+Byte: 02BC:00 '        '
+Byte: 02BD:08 '    *   '
+Byte: 02BE:08 '    *   '
+Byte: 02BF:08 '    *   '
+Byte: 02C0:7F ' *******'
+Byte: 02C1:08 '    *   '
+Byte: 02C2:08 '    *   '
+Byte: 02C3:08 '    *   '
+Byte: 02C4:00 '        '
+Byte: 02C5:00 '        '
+Byte: 02C6:00 '        '
+Byte: 02C7:
+Byte: 02C8:57 Ignored
+Byte: 02C9:21 Ignored
+Byte: 02CA:7A Ignored
+Byte: 02CB:19 Ignored
+Byte: 02CC:00 '        '
+Byte: 02CD:00 '        '
+Byte: 02CE:00 '        '
+Byte: 02CF:00 '        '
+Byte: 02D0:00 '        '
+Byte: 02D1:00 '        '
+Byte: 02D2:00 '        '
+Byte: 02D3:18 '   **   '
+Byte: 02D4:18 '   **   '
+Byte: 02D5:10 '   *    '
+Byte: 02D6:20 '  *     '
+Byte: 02D7:
+Byte: 02D8:59 Ignored
+Byte: 02D9:C3 Ignored
+Byte: 02DA:63 Ignored
+Byte: 02DB:5E Ignored
+Byte: 02DC:00 '        '
+Byte: 02DD:00 '        '
+Byte: 02DE:00 '        '
+Byte: 02DF:00 '        '
+Byte: 02E0:7F ' *******'
+Byte: 02E1:00 '        '
+Byte: 02E2:00 '        '
+Byte: 02E3:00 '        '
+Byte: 02E4:00 '        '
+Byte: 02E5:00 '        '
+Byte: 02E6:00 '        '
+Byte: 02E7:
+Byte: 02E8:B7 Ignored
+Byte: 02E9:37 Ignored
+Byte: 02EA:CA Ignored
+Byte: 02EB:C2 Ignored
+Byte: 02EC:00 '        '
+Byte: 02ED:00 '        '
+Byte: 02EE:00 '        '
+Byte: 02EF:00 '        '
+Byte: 02F0:00 '        '
+Byte: 02F1:00 '        '
+Byte: 02F2:00 '        '
+Byte: 02F3:18 '   **   '
+Byte: 02F4:18 '   **   '
+Byte: 02F5:00 '        '
+Byte: 02F6:00 '        '
+Byte: 02F7:
+Byte: 02F8:C5 Ignored
+Byte: 02F9:E2 Ignored
+Byte: 02FA:7F Ignored
+Byte: 02FB:55 Ignored
+Byte: 02FC:00 '        '
+Byte: 02FD:01 '       *'
+Byte: 02FE:02 '      * '
+Byte: 02FF:04 '     *  '
+Byte: 0300:08 '    *   '
+Byte: 0301:10 '   *    '
+Byte: 0302:20 '  *     '
+Byte: 0303:40 ' *      '
+Byte: 0304:00 '        '
+Byte: 0305:00 '        '
+Byte: 0306:01 '       *'
+Byte: 0307:
+Byte: 0308:FA Ignored
+Byte: 0309:54 Ignored
+Byte: 030A:00 Ignored
+Byte: 030B:00 Ignored
+Byte: 030C:23 Ignored
+Byte: 030D:46 Ignored
+Byte: 030E:C5 Ignored
+Byte: 030F:DA Ignored
+Byte: 0310:3E '  ***** '
+Byte: 0311:41 ' *     *'
+Byte: 0312:43 ' *    **'
+Byte: 0313:45 ' *   * *'
+Byte: 0314:49 ' *  *  *'
+Byte: 0315:51 ' * *   *'
+Byte: 0316:61 ' **    *'
+Byte: 0317:41 ' *     *'
+Byte: 0318:3E '  ***** '
+Byte: 0319:00 '        '
+Byte: 031A:00 '        '
+Byte: 031B:
+Byte: 031C:12 Ignored
+Byte: 031D:26 Ignored
+Byte: 031E:CD Ignored
+Byte: 031F:82 Ignored
+Byte: 0320:08 '    *   '
+Byte: 0321:18 '   **   '
+Byte: 0322:28 '  * *   '
+Byte: 0323:08 '    *   '
+Byte: 0324:08 '    *   '
+Byte: 0325:08 '    *   '
+Byte: 0326:08 '    *   '
+Byte: 0327:08 '    *   '
+Byte: 0328:3E '  ***** '
+Byte: 0329:00 '        '
+Byte: 032A:00 '        '
+Byte: 032B:
+Byte: 032C:66 Ignored
+Byte: 032D:6F Ignored
+Byte: 032E:B4 Ignored
+Byte: 032F:CA Ignored
+Byte: 0330:3E '  ***** '
+Byte: 0331:41 ' *     *'
+Byte: 0332:01 '       *'
+Byte: 0333:01 '       *'
+Byte: 0334:1E '   **** '
+Byte: 0335:20 '  *     '
+Byte: 0336:40 ' *      '
+Byte: 0337:40 ' *      '
+Byte: 0338:7F ' *******'
+Byte: 0339:00 '        '
+Byte: 033A:00 '        '
+Byte: 033B:
+Byte: 033C:18 Ignored
+Byte: 033D:02 Ignored
+Byte: 033E:CF Ignored
+Byte: 033F:2C Ignored
+Byte: 0340:3E '  ***** '
+Byte: 0341:41 ' *     *'
+Byte: 0342:01 '       *'
+Byte: 0343:01 '       *'
+Byte: 0344:1E '   **** '
+Byte: 0345:01 '       *'
+Byte: 0346:01 '       *'
+Byte: 0347:41 ' *     *'
+Byte: 0348:3E '  ***** '
+Byte: 0349:00 '        '
+Byte: 034A:00 '        '
+Byte: 034B:
+Byte: 034C:26 Ignored
+Byte: 034D:EB Ignored
+Byte: 034E:37 Ignored
+Byte: 034F:C3 Ignored
+Byte: 0350:02 '      * '
+Byte: 0351:06 '     ** '
+Byte: 0352:0A '    * * '
+Byte: 0353:12 '   *  * '
+Byte: 0354:22 '  *   * '
+Byte: 0355:42 ' *    * '
+Byte: 0356:7F ' *******'
+Byte: 0357:02 '      * '
+Byte: 0358:02 '      * '
+Byte: 0359:00 '        '
+Byte: 035A:00 '        '
+Byte: 035B:
+Byte: 035C:E5 Ignored
+Byte: 035D:F5 Ignored
+Byte: 035E:EB Ignored
+Byte: 035F:7E Ignored
+Byte: 0360:7F ' *******'
+Byte: 0361:40 ' *      '
+Byte: 0362:40 ' *      '
+Byte: 0363:40 ' *      '
+Byte: 0364:7E ' ****** '
+Byte: 0365:01 '       *'
+Byte: 0366:01 '       *'
+Byte: 0367:41 ' *     *'
+Byte: 0368:3E '  ***** '
+Byte: 0369:00 '        '
+Byte: 036A:00 '        '
+Byte: 036B:
+Byte: 036C:40 Ignored
+Byte: 036D:CD Ignored
+Byte: 036E:0D Ignored
+Byte: 036F:26 Ignored
+Byte: 0370:1E '   **** '
+Byte: 0371:20 '  *     '
+Byte: 0372:40 ' *      '
+Byte: 0373:40 ' *      '
+Byte: 0374:7E ' ****** '
+Byte: 0375:41 ' *     *'
+Byte: 0376:41 ' *     *'
+Byte: 0377:41 ' *     *'
+Byte: 0378:3E '  ***** '
+Byte: 0379:00 '        '
+Byte: 037A:00 '        '
+Byte: 037B:
+Byte: 037C:CF Ignored
+Byte: 037D:2C Ignored
+Byte: 037E:18 Ignored
+Byte: 037F:ED Ignored
+Byte: 0380:7F ' *******'
+Byte: 0381:41 ' *     *'
+Byte: 0382:02 '      * '
+Byte: 0383:04 '     *  '
+Byte: 0384:08 '    *   '
+Byte: 0385:10 '   *    '
+Byte: 0386:10 '   *    '
+Byte: 0387:10 '   *    '
+Byte: 0388:10 '   *    '
+Byte: 0389:00 '        '
+Byte: 038A:00 '        '
+Byte: 038B:
+Byte: 038C:D7 Ignored
+Byte: 038D:C2 Ignored
+Byte: 038E:97 Ignored
+Byte: 038F:19 Ignored
+Byte: 0390:3E '  ***** '
+Byte: 0391:41 ' *     *'
+Byte: 0392:41 ' *     *'
+Byte: 0393:41 ' *     *'
+Byte: 0394:3E '  ***** '
+Byte: 0395:41 ' *     *'
+Byte: 0396:41 ' *     *'
+Byte: 0397:41 ' *     *'
+Byte: 0398:3E '  ***** '
+Byte: 0399:00 '        '
+Byte: 039A:00 '        '
+Byte: 039B:
+Byte: 039C:2B Ignored
+Byte: 039D:71 Ignored
+Byte: 039E:FA Ignored
+Byte: 039F:04 Ignored
+Byte: 03A0:3E '  ***** '
+Byte: 03A1:41 ' *     *'
+Byte: 03A2:41 ' *     *'
+Byte: 03A3:41 ' *     *'
+Byte: 03A4:3F '  ******'
+Byte: 03A5:01 '       *'
+Byte: 03A6:01 '       *'
+Byte: 03A7:02 '      * '
+Byte: 03A8:3C '  ****  '
+Byte: 03A9:00 '        '
+Byte: 03AA:00 '        '
+Byte: 03AB:
+Byte: 03AC:2B Ignored
+Byte: 03AD:71 Ignored
+Byte: 03AE:2B Ignored
+Byte: 03AF:C1 Ignored
+Byte: 03B0:00 '        '
+Byte: 03B1:00 '        '
+Byte: 03B2:00 '        '
+Byte: 03B3:18 '   **   '
+Byte: 03B4:18 '   **   '
+Byte: 03B5:00 '        '
+Byte: 03B6:00 '        '
+Byte: 03B7:18 '   **   '
+Byte: 03B8:18 '   **   '
+Byte: 03B9:00 '        '
+Byte: 03BA:00 '        '
+Byte: 03BB:
+Byte: 03BC:88 Ignored
+Byte: 03BD:28 Ignored
+Byte: 03BE:F1 Ignored
+Byte: 03BF:C3 Ignored
+Byte: 03C0:00 '        '
+Byte: 03C1:00 '        '
+Byte: 03C2:00 '        '
+Byte: 03C3:18 '   **   '
+Byte: 03C4:18 '   **   '
+Byte: 03C5:00 '        '
+Byte: 03C6:00 '        '
+Byte: 03C7:18 '   **   '
+Byte: 03C8:18 '   **   '
+Byte: 03C9:10 '   *    '
+Byte: 03CA:20 '  *     '
+Byte: 03CB:
+Byte: 03CC:CD Ignored
+Byte: 03CD:43 Ignored
+Byte: 03CE:28 Ignored
+Byte: 03CF:18 Ignored
+Byte: 03D0:04 '     *  '
+Byte: 03D1:08 '    *   '
+Byte: 03D2:10 '   *    '
+Byte: 03D3:20 '  *     '
+Byte: 03D4:40 ' *      '
+Byte: 03D5:20 '  *     '
+Byte: 03D6:10 '   *    '
+Byte: 03D7:08 '    *   '
+Byte: 03D8:04 '     *  '
+Byte: 03D9:00 '        '
+Byte: 03DA:00 '        '
+Byte: 03DB:
+Byte: 03DC:40 Ignored
+Byte: 03DD:E1 Ignored
+Byte: 03DE:77 Ignored
+Byte: 03DF:23 Ignored
+Byte: 03E0:00 '        '
+Byte: 03E1:00 '        '
+Byte: 03E2:00 '        '
+Byte: 03E3:00 '        '
+Byte: 03E4:3E '  ***** '
+Byte: 03E5:00 '        '
+Byte: 03E6:3E '  ***** '
+Byte: 03E7:00 '        '
+Byte: 03E8:00 '        '
+Byte: 03E9:00 '        '
+Byte: 03EA:00 '        '
+Byte: 03EB:
+Byte: 03EC:CD Ignored
+Byte: 03ED:28 Ignored
+Byte: 03EE:28 Ignored
+Byte: 03EF:EB Ignored
+Byte: 03F0:10 '   *    '
+Byte: 03F1:08 '    *   '
+Byte: 03F2:04 '     *  '
+Byte: 03F3:02 '      * '
+Byte: 03F4:01 '       *'
+Byte: 03F5:02 '      * '
+Byte: 03F6:04 '     *  '
+Byte: 03F7:08 '    *   '
+Byte: 03F8:10 '   *    '
+Byte: 03F9:00 '        '
+Byte: 03FA:00 '        '
+Byte: 03FB:
+Byte: 03FC:0D Ignored
+Byte: 03FD:26 Ignored
+Byte: 03FE:7E Ignored
+Byte: 03FF:FE Ignored
+Byte: 0400:1E '   **** '
+Byte: 0401:21 '  *    *'
+Byte: 0402:21 '  *    *'
+Byte: 0403:01 '       *'
+Byte: 0404:06 '     ** '
+Byte: 0405:08 '    *   '
+Byte: 0406:08 '    *   '
+Byte: 0407:00 '        '
+Byte: 0408:01 '       *'
+Byte: 0409:00 '        '
+Byte: 040A:F8 '*****   '
+Byte: 040B:
+Byte: 040C:08 Ignored
+Byte: 040D:00 Ignored
+Byte: 040E:00 Ignored
+Byte: 040F:00 Ignored
+Byte: 0410:56 Ignored
+Byte: 0411:D5 Ignored
+Byte: 0412:CD Ignored
+Byte: 0413:2C Ignored
+Byte: 0414:1E '   **** '
+Byte: 0415:21 '  *    *'
+Byte: 0416:4D ' *  ** *'
+Byte: 0417:55 ' * * * *'
+Byte: 0418:55 ' * * * *'
+Byte: 0419:5E ' * **** '
+Byte: 041A:40 ' *      '
+Byte: 041B:20 '  *     '
+Byte: 041C:1F '   *****'
+Byte: 041D:00 '        '
+Byte: 041E:00 '        '
+Byte: 041F:
+Byte: 0420:40 Ignored
+Byte: 0421:F5 Ignored
+Byte: 0422:FE Ignored
+Byte: 0423:03 Ignored
+Byte: 0424:1C '   ***  '
+Byte: 0425:22 '  *   * '
+Byte: 0426:41 ' *     *'
+Byte: 0427:41 ' *     *'
+Byte: 0428:41 ' *     *'
+Byte: 0429:7F ' *******'
+Byte: 042A:41 ' *     *'
+Byte: 042B:41 ' *     *'
+Byte: 042C:41 ' *     *'
+Byte: 042D:00 '        '
+Byte: 042E:00 '        '
+Byte: 042F:
+Byte: 0430:00 Ignored
+Byte: 0431:30 Ignored
+Byte: 0432:05 Ignored
+Byte: 0433:D6 Ignored
+Byte: 0434:7E ' ****** '
+Byte: 0435:41 ' *     *'
+Byte: 0436:41 ' *     *'
+Byte: 0437:41 ' *     *'
+Byte: 0438:7E ' ****** '
+Byte: 0439:41 ' *     *'
+Byte: 043A:41 ' *     *'
+Byte: 043B:41 ' *     *'
+Byte: 043C:7E ' ****** '
+Byte: 043D:00 '        '
+Byte: 043E:00 '        '
+Byte: 043F:
+Byte: 0440:99 Ignored
+Byte: 0441:56 Ignored
+Byte: 0442:D5 Ignored
+Byte: 0443:CF Ignored
+Byte: 0444:1E '   **** '
+Byte: 0445:21 '  *    *'
+Byte: 0446:41 ' *     *'
+Byte: 0447:40 ' *      '
+Byte: 0448:40 ' *      '
+Byte: 0449:40 ' *      '
+Byte: 044A:40 ' *      '
+Byte: 044B:21 '  *    *'
+Byte: 044C:1E '   **** '
+Byte: 044D:00 '        '
+Byte: 044E:00 '        '
+Byte: 044F:
+Byte: 0450:C3 Ignored
+Byte: 0451:A2 Ignored
+Byte: 0452:19 Ignored
+Byte: 0453:0E Ignored
+Byte: 0454:7C ' *****  '
+Byte: 0455:42 ' *    * '
+Byte: 0456:41 ' *     *'
+Byte: 0457:41 ' *     *'
+Byte: 0458:41 ' *     *'
+Byte: 0459:41 ' *     *'
+Byte: 045A:41 ' *     *'
+Byte: 045B:42 ' *    * '
+Byte: 045C:7C ' *****  '
+Byte: 045D:00 '        '
+Byte: 045E:00 '        '
+Byte: 045F:
+Byte: 0460:B7 Ignored
+Byte: 0461:CD Ignored
+Byte: 0462:EE Ignored
+Byte: 0463:53 Ignored
+Byte: 0464:7F ' *******'
+Byte: 0465:40 ' *      '
+Byte: 0466:40 ' *      '
+Byte: 0467:40 ' *      '
+Byte: 0468:7E ' ****** '
+Byte: 0469:40 ' *      '
+Byte: 046A:40 ' *      '
+Byte: 046B:40 ' *      '
+Byte: 046C:7F ' *******'
+Byte: 046D:00 '        '
+Byte: 046E:00 '        '
+Byte: 046F:
+Byte: 0470:CA Ignored
+Byte: 0471:0A Ignored
+Byte: 0472:57 Ignored
+Byte: 0473:FE Ignored
+Byte: 0474:7F ' *******'
+Byte: 0475:40 ' *      '
+Byte: 0476:40 ' *      '
+Byte: 0477:40 ' *      '
+Byte: 0478:7E ' ****** '
+Byte: 0479:40 ' *      '
+Byte: 047A:40 ' *      '
+Byte: 047B:40 ' *      '
+Byte: 047C:40 ' *      '
+Byte: 047D:00 '        '
+Byte: 047E:00 '        '
+Byte: 047F:
+Byte: 0480:FE Ignored
+Byte: 0481:41 Ignored
+Byte: 0482:37 Ignored
+Byte: 0483:CA Ignored
+Byte: 0484:1E '   **** '
+Byte: 0485:21 '  *    *'
+Byte: 0486:40 ' *      '
+Byte: 0487:40 ' *      '
+Byte: 0488:40 ' *      '
+Byte: 0489:47 ' *   ***'
+Byte: 048A:41 ' *     *'
+Byte: 048B:23 '  *   **'
+Byte: 048C:1D '   *** *'
+Byte: 048D:00 '        '
+Byte: 048E:00 '        '
+Byte: 048F:
+Byte: 0490:01 Ignored
+Byte: 0491:3E Ignored
+Byte: 0492:C9 Ignored
+Byte: 0493:32 Ignored
+Byte: 0494:41 ' *     *'
+Byte: 0495:41 ' *     *'
+Byte: 0496:41 ' *     *'
+Byte: 0497:41 ' *     *'
+Byte: 0498:7F ' *******'
+Byte: 0499:41 ' *     *'
+Byte: 049A:41 ' *     *'
+Byte: 049B:41 ' *     *'
+Byte: 049C:41 ' *     *'
+Byte: 049D:00 '        '
+Byte: 049E:00 '        '
+Byte: 049F:
+Byte: 04A0:5B Ignored
+Byte: 04A1:F6 Ignored
+Byte: 04A2:C0 Ignored
+Byte: 04A3:CD Ignored
+Byte: 04A4:1C '   ***  '
+Byte: 04A5:08 '    *   '
+Byte: 04A6:08 '    *   '
+Byte: 04A7:08 '    *   '
+Byte: 04A8:08 '    *   '
+Byte: 04A9:08 '    *   '
+Byte: 04AA:08 '    *   '
+Byte: 04AB:08 '    *   '
+Byte: 04AC:08 '    *   '
+Byte: 04AD:1C '   ***  '
+Byte: 04AE:00 '        '
+Byte: 04AF:
+Byte: 04B0:D4 Ignored
+Byte: 04B1:40 Ignored
+Byte: 04B2:11 Ignored
+Byte: 04B3:46 Ignored
+Byte: 04B4:07 '     ***'
+Byte: 04B5:02 '      * '
+Byte: 04B6:02 '      * '
+Byte: 04B7:02 '      * '
+Byte: 04B8:02 '      * '
+Byte: 04B9:02 '      * '
+Byte: 04BA:42 ' *    * '
+Byte: 04BB:42 ' *    * '
+Byte: 04BC:3C '  ****  '
+Byte: 04BD:00 '        '
+Byte: 04BE:00 '        '
+Byte: 04BF:
+Byte: 04C0:23 Ignored
+Byte: 04C1:CD Ignored
+Byte: 04C2:45 Ignored
+Byte: 04C3:57 Ignored
+Byte: 04C4:41 ' *     *'
+Byte: 04C5:42 ' *    * '
+Byte: 04C6:44 ' *   *  '
+Byte: 04C7:48 ' *  *   '
+Byte: 04C8:50 ' * *    '
+Byte: 04C9:68 ' ** *   '
+Byte: 04CA:44 ' *   *  '
+Byte: 04CB:42 ' *    * '
+Byte: 04CC:41 ' *     *'
+Byte: 04CD:00 '        '
+Byte: 04CE:00 '        '
+Byte: 04CF:
+Byte: 04D0:36 Ignored
+Byte: 04D1:3A Ignored
+Byte: 04D2:23 Ignored
+Byte: 04D3:CD Ignored
+Byte: 04D4:40 ' *      '
+Byte: 04D5:40 ' *      '
+Byte: 04D6:40 ' *      '
+Byte: 04D7:40 ' *      '
+Byte: 04D8:40 ' *      '
+Byte: 04D9:40 ' *      '
+Byte: 04DA:40 ' *      '
+Byte: 04DB:40 ' *      '
+Byte: 04DC:7F ' *******'
+Byte: 04DD:00 '        '
+Byte: 04DE:00 '        '
+Byte: 04DF:
+Byte: 04E0:D2 Ignored
+Byte: 04E1:49 Ignored
+Byte: 04E2:57 Ignored
+Byte: 04E3:C6 Ignored
+Byte: 04E4:41 ' *     *'
+Byte: 04E5:63 ' **   **'
+Byte: 04E6:55 ' * * * *'
+Byte: 04E7:55 ' * * * *'
+Byte: 04E8:5D ' * *** *'
+Byte: 04E9:49 ' *  *  *'
+Byte: 04EA:49 ' *  *  *'
+Byte: 04EB:41 ' *     *'
+Byte: 04EC:41 ' *     *'
+Byte: 04ED:00 '        '
+Byte: 04EE:00 '        '
+Byte: 04EF:
+Byte: 04F0:5E Ignored
+Byte: 04F1:CD Ignored
+Byte: 04F2:CD Ignored
+Byte: 04F3:21 Ignored
+Byte: 04F4:41 ' *     *'
+Byte: 04F5:61 ' **    *'
+Byte: 04F6:51 ' * *   *'
+Byte: 04F7:49 ' *  *  *'
+Byte: 04F8:45 ' *   * *'
+Byte: 04F9:43 ' *    **'
+Byte: 04FA:41 ' *     *'
+Byte: 04FB:41 ' *     *'
+Byte: 04FC:41 ' *     *'
+Byte: 04FD:00 '        '
+Byte: 04FE:00 '        '
+Byte: 04FF:
+Byte: 0500:C1 Ignored
+Byte: 0501:DA Ignored
+Byte: 0502:BE Ignored
+Byte: 0503:1D Ignored
+Byte: 0504:1C '   ***  '
+Byte: 0505:22 '  *   * '
+Byte: 0506:41 ' *     *'
+Byte: 0507:41 ' *     *'
+Byte: 0508:41 ' *     *'
+Byte: 0509:41 ' *     *'
+Byte: 050A:01 '       *'
+Byte: 050B:00 '        '
+Byte: 050C:F6 '**** ** '
+Byte: 050D:56 ' * * ** '
+Byte: 050E:41 ' *     *'
+Byte: 050F:
+Byte: 0510:1C Ignored
+Byte: 0511:00 Ignored
+Byte: 0512:00 Ignored
+Byte: 0513:00 Ignored
+Byte: 0514:E5 Ignored
+Byte: 0515:6F Ignored
+Byte: 0516:67 Ignored
+Byte: 0517:22 Ignored
+Byte: 0518:7E ' ****** '
+Byte: 0519:41 ' *     *'
+Byte: 051A:41 ' *     *'
+Byte: 051B:41 ' *     *'
+Byte: 051C:7E ' ****** '
+Byte: 051D:40 ' *      '
+Byte: 051E:40 ' *      '
+Byte: 051F:40 ' *      '
+Byte: 0520:40 ' *      '
+Byte: 0521:00 '        '
+Byte: 0522:00 '        '
+Byte: 0523:
+Byte: 0524:CE Ignored
+Byte: 0525:E1 Ignored
+Byte: 0526:7E Ignored
+Byte: 0527:C8 Ignored
+Byte: 0528:1C '   ***  '
+Byte: 0529:22 '  *   * '
+Byte: 052A:41 ' *     *'
+Byte: 052B:41 ' *     *'
+Byte: 052C:41 ' *     *'
+Byte: 052D:41 ' *     *'
+Byte: 052E:5D ' * *** *'
+Byte: 052F:22 '  *   * '
+Byte: 0530:1D '   *** *'
+Byte: 0531:00 '        '
+Byte: 0532:00 '        '
+Byte: 0533:
+Byte: 0534:E5 Ignored
+Byte: 0535:2A Ignored
+Byte: 0536:2A Ignored
+Byte: 0537:5B Ignored
+Byte: 0538:7E ' ****** '
+Byte: 0539:41 ' *     *'
+Byte: 053A:41 ' *     *'
+Byte: 053B:41 ' *     *'
+Byte: 053C:7E ' ****** '
+Byte: 053D:48 ' *  *   '
+Byte: 053E:44 ' *   *  '
+Byte: 053F:42 ' *    * '
+Byte: 0540:41 ' *     *'
+Byte: 0541:00 '        '
+Byte: 0542:00 '        '
+Byte: 0543:
+Byte: 0544:D2 Ignored
+Byte: 0545:4A Ignored
+Byte: 0546:2B Ignored
+Byte: 0547:C3 Ignored
+Byte: 0548:3E '  ***** '
+Byte: 0549:41 ' *     *'
+Byte: 054A:40 ' *      '
+Byte: 054B:40 ' *      '
+Byte: 054C:3E '  ***** '
+Byte: 054D:01 '       *'
+Byte: 054E:01 '       *'
+Byte: 054F:41 ' *     *'
+Byte: 0550:3E '  ***** '
+Byte: 0551:00 '        '
+Byte: 0552:00 '        '
+Byte: 0553:
+Byte: 0554:79 Ignored
+Byte: 0555:32 Ignored
+Byte: 0556:C7 Ignored
+Byte: 0557:57 Ignored
+Byte: 0558:7F ' *******'
+Byte: 0559:08 '    *   '
+Byte: 055A:08 '    *   '
+Byte: 055B:08 '    *   '
+Byte: 055C:08 '    *   '
+Byte: 055D:08 '    *   '
+Byte: 055E:08 '    *   '
+Byte: 055F:08 '    *   '
+Byte: 0560:08 '    *   '
+Byte: 0561:00 '        '
+Byte: 0562:00 '        '
+Byte: 0563:
+Byte: 0564:77 Ignored
+Byte: 0565:23 Ignored
+Byte: 0566:13 Ignored
+Byte: 0567:0B Ignored
+Byte: 0568:41 ' *     *'
+Byte: 0569:41 ' *     *'
+Byte: 056A:41 ' *     *'
+Byte: 056B:41 ' *     *'
+Byte: 056C:41 ' *     *'
+Byte: 056D:41 ' *     *'
+Byte: 056E:41 ' *     *'
+Byte: 056F:41 ' *     *'
+Byte: 0570:3E '  ***** '
+Byte: 0571:00 '        '
+Byte: 0572:00 '        '
+Byte: 0573:
+Byte: 0574:FD Ignored
+Byte: 0575:63 Ignored
+Byte: 0576:DD Ignored
+Byte: 0577:5E Ignored
+Byte: 0578:41 ' *     *'
+Byte: 0579:41 ' *     *'
+Byte: 057A:41 ' *     *'
+Byte: 057B:22 '  *   * '
+Byte: 057C:22 '  *   * '
+Byte: 057D:14 '   * *  '
+Byte: 057E:14 '   * *  '
+Byte: 057F:08 '    *   '
+Byte: 0580:08 '    *   '
+Byte: 0581:00 '        '
+Byte: 0582:00 '        '
+Byte: 0583:
+Byte: 0584:FF Ignored
+Byte: 0585:18 Ignored
+Byte: 0586:11 Ignored
+Byte: 0587:DD Ignored
+Byte: 0588:41 ' *     *'
+Byte: 0589:41 ' *     *'
+Byte: 058A:41 ' *     *'
+Byte: 058B:49 ' *  *  *'
+Byte: 058C:49 ' *  *  *'
+Byte: 058D:49 ' *  *  *'
+Byte: 058E:55 ' * * * *'
+Byte: 058F:55 ' * * * *'
+Byte: 0590:22 '  *   * '
+Byte: 0591:00 '        '
+Byte: 0592:00 '        '
+Byte: 0593:
+Byte: 0594:EF Ignored
+Byte: 0595:57 Ignored
+Byte: 0596:7E Ignored
+Byte: 0597:23 Ignored
+Byte: 0598:41 ' *     *'
+Byte: 0599:41 ' *     *'
+Byte: 059A:22 '  *   * '
+Byte: 059B:14 '   * *  '
+Byte: 059C:08 '    *   '
+Byte: 059D:14 '   * *  '
+Byte: 059E:22 '  *   * '
+Byte: 059F:41 ' *     *'
+Byte: 05A0:41 ' *     *'
+Byte: 05A1:00 '        '
+Byte: 05A2:00 '        '
+Byte: 05A3:
+Byte: 05A4:77 Ignored
+Byte: 05A5:05 Ignored
+Byte: 05A6:CD Ignored
+Byte: 05A7:EF Ignored
+Byte: 05A8:41 ' *     *'
+Byte: 05A9:41 ' *     *'
+Byte: 05AA:22 '  *   * '
+Byte: 05AB:22 '  *   * '
+Byte: 05AC:14 '   * *  '
+Byte: 05AD:08 '    *   '
+Byte: 05AE:08 '    *   '
+Byte: 05AF:08 '    *   '
+Byte: 05B0:08 '    *   '
+Byte: 05B1:00 '        '
+Byte: 05B2:00 '        '
+Byte: 05B3:
+Byte: 05B4:44 Ignored
+Byte: 05B5:28 Ignored
+Byte: 05B6:FB Ignored
+Byte: 05B7:FE Ignored
+Byte: 05B8:7F ' *******'
+Byte: 05B9:01 '       *'
+Byte: 05BA:02 '      * '
+Byte: 05BB:04 '     *  '
+Byte: 05BC:08 '    *   '
+Byte: 05BD:10 '   *    '
+Byte: 05BE:20 '  *     '
+Byte: 05BF:40 ' *      '
+Byte: 05C0:7F ' *******'
+Byte: 05C1:00 '        '
+Byte: 05C2:00 '        '
+Byte: 05C3:
+Byte: 05C4:38 Ignored
+Byte: 05C5:0D Ignored
+Byte: 05C6:00 Ignored
+Byte: 05C7:D7 Ignored
+Byte: 05C8:3C '  ****  '
+Byte: 05C9:20 '  *     '
+Byte: 05CA:20 '  *     '
+Byte: 05CB:20 '  *     '
+Byte: 05CC:20 '  *     '
+Byte: 05CD:20 '  *     '
+Byte: 05CE:20 '  *     '
+Byte: 05CF:20 '  *     '
+Byte: 05D0:3C '  ****  '
+Byte: 05D1:00 '        '
+Byte: 05D2:00 '        '
+Byte: 05D3:
+Byte: 05D4:2B Ignored
+Byte: 05D5:B7 Ignored
+Byte: 05D6:CA Ignored
+Byte: 05D7:4A Ignored
+Byte: 05D8:00 '        '
+Byte: 05D9:40 ' *      '
+Byte: 05DA:20 '  *     '
+Byte: 05DB:10 '   *    '
+Byte: 05DC:08 '    *   '
+Byte: 05DD:04 '     *  '
+Byte: 05DE:02 '      * '
+Byte: 05DF:01 '       *'
+Byte: 05E0:00 '        '
+Byte: 05E1:00 '        '
+Byte: 05E2:00 '        '
+Byte: 05E3:
+Byte: 05E4:E5 Ignored
+Byte: 05E5:2A Ignored
+Byte: 05E6:21 Ignored
+Byte: 05E7:41 Ignored
+Byte: 05E8:3C '  ****  '
+Byte: 05E9:04 '     *  '
+Byte: 05EA:04 '     *  '
+Byte: 05EB:04 '     *  '
+Byte: 05EC:04 '     *  '
+Byte: 05ED:04 '     *  '
+Byte: 05EE:04 '     *  '
+Byte: 05EF:04 '     *  '
+Byte: 05F0:3C '  ****  '
+Byte: 05F1:00 '        '
+Byte: 05F2:00 '        '
+Byte: 05F3:
+Byte: 05F4:E1 Ignored
+Byte: 05F5:F1 Ignored
+Byte: 05F6:C5 Ignored
+Byte: 05F7:01 Ignored
+Byte: 05F8:08 '    *   '
+Byte: 05F9:14 '   * *  '
+Byte: 05FA:22 '  *   * '
+Byte: 05FB:41 ' *     *'
+Byte: 05FC:00 '        '
+Byte: 05FD:00 '        '
+Byte: 05FE:00 '        '
+Byte: 05FF:00 '        '
+Byte: 0600:00 '        '
+Byte: 0601:00 '        '
+Byte: 0602:00 '        '
+Byte: 0603:
+Byte: 0604:D1 Ignored
+Byte: 0605:F1 Ignored
+Byte: 0606:47 Ignored
+Byte: 0607:3D Ignored
+Byte: 0608:00 '        '
+Byte: 0609:00 '        '
+Byte: 060A:00 '        '
+Byte: 060B:00 '        '
+Byte: 060C:01 '       *'
+Byte: 060D:00 '        '
+Byte: 060E:F4 '**** *  '
+Byte: 060F:57 ' * * ***'
+Byte: 0610:00 '        '
+Byte: 0611:00 '        '
+Byte: 0612:00 '        '
+Byte: 0613:
+Byte: 0614:7F Ignored
+Byte: 0615:00 Ignored
+Byte: 0616:00 Ignored
+Byte: 0617:00 Ignored
+Byte: 0618:7E Ignored
+Byte: 0619:23 Ignored
+Byte: 061A:46 Ignored
+Byte: 061B:23 Ignored
+Byte: 061C:18 '   **   '
+Byte: 061D:18 '   **   '
+Byte: 061E:08 '    *   '
+Byte: 061F:04 '     *  '
+Byte: 0620:00 '        '
+Byte: 0621:00 '        '
+Byte: 0622:00 '        '
+Byte: 0623:00 '        '
+Byte: 0624:00 '        '
+Byte: 0625:00 '        '
+Byte: 0626:00 '        '
+Byte: 0627:
+Byte: 0628:5E Ignored
+Byte: 0629:23 Ignored
+Byte: 062A:56 Ignored
+Byte: 062B:E1 Ignored
+Byte: 062C:00 '        '
+Byte: 062D:00 '        '
+Byte: 062E:00 '        '
+Byte: 062F:3C '  ****  '
+Byte: 0630:02 '      * '
+Byte: 0631:3E '  ***** '
+Byte: 0632:42 ' *    * '
+Byte: 0633:42 ' *    * '
+Byte: 0634:3D '  **** *'
+Byte: 0635:00 '        '
+Byte: 0636:00 '        '
+Byte: 0637:
+Byte: 0638:05 Ignored
+Byte: 0639:20 Ignored
+Byte: 063A:F4 Ignored
+Byte: 063B:D1 Ignored
+Byte: 063C:60 ' **     '
+Byte: 063D:40 ' *      '
+Byte: 063E:40 ' *      '
+Byte: 063F:5C ' * ***  '
+Byte: 0640:62 ' **   * '
+Byte: 0641:42 ' *    * '
+Byte: 0642:42 ' *    * '
+Byte: 0643:62 ' **   * '
+Byte: 0644:5C ' * ***  '
+Byte: 0645:00 '        '
+Byte: 0646:00 '        '
+Byte: 0647:
+Byte: 0648:3C Ignored
+Byte: 0649:C9 Ignored
+Byte: 064A:C1 Ignored
+Byte: 064B:D1 Ignored
+Byte: 064C:00 '        '
+Byte: 064D:00 '        '
+Byte: 064E:00 '        '
+Byte: 064F:3C '  ****  '
+Byte: 0650:42 ' *    * '
+Byte: 0651:40 ' *      '
+Byte: 0652:40 ' *      '
+Byte: 0653:42 ' *    * '
+Byte: 0654:3C '  ****  '
+Byte: 0655:00 '        '
+Byte: 0656:00 '        '
+Byte: 0657:
+Byte: 0658:4F Ignored
+Byte: 0659:28 Ignored
+Byte: 065A:2C Ignored
+Byte: 065B:FE Ignored
+Byte: 065C:06 '     ** '
+Byte: 065D:02 '      * '
+Byte: 065E:02 '      * '
+Byte: 065F:3A '  *** * '
+Byte: 0660:46 ' *   ** '
+Byte: 0661:42 ' *    * '
+Byte: 0662:42 ' *    * '
+Byte: 0663:46 ' *   ** '
+Byte: 0664:3A '  *** * '
+Byte: 0665:00 '        '
+Byte: 0666:00 '        '
+Byte: 0667:
+Byte: 0668:0A Ignored
+Byte: 0669:FE Ignored
+Byte: 066A:3A Ignored
+Byte: 066B:30 Ignored
+Byte: 066C:00 '        '
+Byte: 066D:00 '        '
+Byte: 066E:00 '        '
+Byte: 066F:3C '  ****  '
+Byte: 0670:42 ' *    * '
+Byte: 0671:7E ' ****** '
+Byte: 0672:40 ' *      '
+Byte: 0673:42 ' *    * '
+Byte: 0674:3C '  ****  '
+Byte: 0675:00 '        '
+Byte: 0676:00 '        '
+Byte: 0677:
+Byte: 0678:37 Ignored
+Byte: 0679:29 Ignored
+Byte: 067A:29 Ignored
+Byte: 067B:29 Ignored
+Byte: 067C:0C '    **  '
+Byte: 067D:12 '   *  * '
+Byte: 067E:10 '   *    '
+Byte: 067F:10 '   *    '
+Byte: 0680:3C '  ****  '
+Byte: 0681:10 '   *    '
+Byte: 0682:10 '   *    '
+Byte: 0683:10 '   *    '
+Byte: 0684:10 '   *    '
+Byte: 0685:00 '        '
+Byte: 0686:00 '        '
+Byte: 0687:
+Byte: 0688:EB Ignored
+Byte: 0689:30 Ignored
+Byte: 068A:19 Ignored
+Byte: 068B:FE Ignored
+Byte: 068C:00 '        '
+Byte: 068D:00 '        '
+Byte: 068E:00 '        '
+Byte: 068F:3D '  **** *'
+Byte: 0690:42 ' *    * '
+Byte: 0691:42 ' *    * '
+Byte: 0692:42 ' *    * '
+Byte: 0693:3C '  ****  '
+Byte: 0694:40 ' *      '
+Byte: 0695:3C '  ****  '
+Byte: 0696:42 ' *    * '
+Byte: 0697:
+Byte: 0698:29 Ignored
+Byte: 0699:D8 Ignored
+Byte: 069A:C1 Ignored
+Byte: 069B:06 Ignored
+Byte: 069C:60 ' **     '
+Byte: 069D:40 ' *      '
+Byte: 069E:40 ' *      '
+Byte: 069F:5C ' * ***  '
+Byte: 06A0:62 ' **   * '
+Byte: 06A1:42 ' *    * '
+Byte: 06A2:42 ' *    * '
+Byte: 06A3:42 ' *    * '
+Byte: 06A4:42 ' *    * '
+Byte: 06A5:00 '        '
+Byte: 06A6:00 '        '
+Byte: 06A7:
+Byte: 06A8:C9 Ignored
+Byte: 06A9:23 Ignored
+Byte: 06AA:CF Ignored
+Byte: 06AB:28 Ignored
+Byte: 06AC:00 '        '
+Byte: 06AD:08 '    *   '
+Byte: 06AE:00 '        '
+Byte: 06AF:18 '   **   '
+Byte: 06B0:08 '    *   '
+Byte: 06B1:08 '    *   '
+Byte: 06B2:08 '    *   '
+Byte: 06B3:08 '    *   '
+Byte: 06B4:1C '   ***  '
+Byte: 06B5:00 '        '
+Byte: 06B6:00 '        '
+Byte: 06B7:
+Byte: 06B8:56 Ignored
+Byte: 06B9:2A Ignored
+Byte: 06BA:A0 Ignored
+Byte: 06BB:40 Ignored
+Byte: 06BC:00 '        '
+Byte: 06BD:02 '      * '
+Byte: 06BE:00 '        '
+Byte: 06BF:06 '     ** '
+Byte: 06C0:02 '      * '
+Byte: 06C1:02 '      * '
+Byte: 06C2:02 '      * '
+Byte: 06C3:02 '      * '
+Byte: 06C4:02 '      * '
+Byte: 06C5:02 '      * '
+Byte: 06C6:22 '  *   * '
+Byte: 06C7:
+Byte: 06C8:09 Ignored
+Byte: 06C9:E1 Ignored
+Byte: 06CA:E3 Ignored
+Byte: 06CB:CF Ignored
+Byte: 06CC:60 ' **     '
+Byte: 06CD:40 ' *      '
+Byte: 06CE:40 ' *      '
+Byte: 06CF:44 ' *   *  '
+Byte: 06D0:48 ' *  *   '
+Byte: 06D1:50 ' * *    '
+Byte: 06D2:68 ' ** *   '
+Byte: 06D3:44 ' *   *  '
+Byte: 06D4:42 ' *    * '
+Byte: 06D5:00 '        '
+Byte: 06D6:00 '        '
+Byte: 06D7:
+Byte: 06D8:59 Ignored
+Byte: 06D9:D5 Ignored
+Byte: 06DA:CF Ignored
+Byte: 06DB:D5 Ignored
+Byte: 06DC:18 '   **   '
+Byte: 06DD:08 '    *   '
+Byte: 06DE:08 '    *   '
+Byte: 06DF:08 '    *   '
+Byte: 06E0:08 '    *   '
+Byte: 06E1:08 '    *   '
+Byte: 06E2:08 '    *   '
+Byte: 06E3:08 '    *   '
+Byte: 06E4:1C '   ***  '
+Byte: 06E5:00 '        '
+Byte: 06E6:00 '        '
+Byte: 06E7:
+Byte: 06E8:E3 Ignored
+Byte: 06E9:E5 Ignored
+Byte: 06EA:21 Ignored
+Byte: 06EB:E7 Ignored
+Byte: 06EC:00 '        '
+Byte: 06ED:00 '        '
+Byte: 06EE:00 '        '
+Byte: 06EF:76 ' *** ** '
+Byte: 06F0:49 ' *  *  *'
+Byte: 06F1:49 ' *  *  *'
+Byte: 06F2:49 ' *  *  *'
+Byte: 06F3:49 ' *  *  *'
+Byte: 06F4:49 ' *  *  *'
+Byte: 06F5:00 '        '
+Byte: 06F6:00 '        '
+Byte: 06F7:
+Byte: 06F8:38 Ignored
+Byte: 06F9:01 Ignored
+Byte: 06FA:79 Ignored
+Byte: 06FB:48 Ignored
+Byte: 06FC:00 '        '
+Byte: 06FD:00 '        '
+Byte: 06FE:00 '        '
+Byte: 06FF:5C ' * ***  '
+Byte: 0700:62 ' **   * '
+Byte: 0701:42 ' *    * '
+Byte: 0702:42 ' *    * '
+Byte: 0703:42 ' *    * '
+Byte: 0704:42 ' *    * '
+Byte: 0705:00 '        '
+Byte: 0706:00 '        '
+Byte: 0707:
+Byte: 0708:EB Ignored
+Byte: 0709:4E Ignored
+Byte: 070A:23 Ignored
+Byte: 070B:7E Ignored
+Byte: 070C:00 '        '
+Byte: 070D:00 '        '
+Byte: 070E:01 '       *'
+Byte: 070F:00 '        '
+Byte: 0710:F2 '****  * '
+Byte: 0711:58 ' * **   '
+Byte: 0712:00 '        '
+Byte: 0713:3C '  ****  '
+Byte: 0714:42 ' *    * '
+Byte: 0715:42 ' *    * '
+Byte: 0716:42 ' *    * '
+Byte: 0717:
+Byte: 0718:3C Ignored
+Byte: 0719:00 Ignored
+Byte: 071A:00 Ignored
+Byte: 071B:00 Ignored
+Byte: 071C:C8 Ignored
+Byte: 071D:10 Ignored
+Byte: 071E:F8 Ignored
+Byte: 071F:C9 Ignored
+Byte: 0720:00 '        '
+Byte: 0721:00 '        '
+Byte: 0722:00 '        '
+Byte: 0723:5C ' * ***  '
+Byte: 0724:62 ' **   * '
+Byte: 0725:42 ' *    * '
+Byte: 0726:42 ' *    * '
+Byte: 0727:62 ' **   * '
+Byte: 0728:5C ' * ***  '
+Byte: 0729:40 ' *      '
+Byte: 072A:40 ' *      '
+Byte: 072B:
+Byte: 072C:29 Ignored
+Byte: 072D:C9 Ignored
+Byte: 072E:E5 Ignored
+Byte: 072F:2A Ignored
+Byte: 0730:00 '        '
+Byte: 0731:00 '        '
+Byte: 0732:00 '        '
+Byte: 0733:3A '  *** * '
+Byte: 0734:46 ' *   ** '
+Byte: 0735:42 ' *    * '
+Byte: 0736:42 ' *    * '
+Byte: 0737:46 ' *   ** '
+Byte: 0738:3A '  *** * '
+Byte: 0739:02 '      * '
+Byte: 073A:02 '      * '
+Byte: 073B:
+Byte: 073C:40 Ignored
+Byte: 073D:CD Ignored
+Byte: 073E:84 Ignored
+Byte: 073F:03 Ignored
+Byte: 0740:00 '        '
+Byte: 0741:00 '        '
+Byte: 0742:00 '        '
+Byte: 0743:5C ' * ***  '
+Byte: 0744:62 ' **   * '
+Byte: 0745:40 ' *      '
+Byte: 0746:40 ' *      '
+Byte: 0747:40 ' *      '
+Byte: 0748:40 ' *      '
+Byte: 0749:00 '        '
+Byte: 074A:00 '        '
+Byte: 074B:
+Byte: 074C:FE Ignored
+Byte: 074D:F0 Ignored
+Byte: 074E:CA Ignored
+Byte: 074F:9D Ignored
+Byte: 0750:00 '        '
+Byte: 0751:00 '        '
+Byte: 0752:00 '        '
+Byte: 0753:3C '  ****  '
+Byte: 0754:42 ' *    * '
+Byte: 0755:30 '  **    '
+Byte: 0756:0C '    **  '
+Byte: 0757:42 ' *    * '
+Byte: 0758:3C '  ****  '
+Byte: 0759:00 '        '
+Byte: 075A:00 '        '
+Byte: 075B:
+Byte: 075C:2B Ignored
+Byte: 075D:C9 Ignored
+Byte: 075E:E5 Ignored
+Byte: 075F:2A Ignored
+Byte: 0760:00 '        '
+Byte: 0761:10 '   *    '
+Byte: 0762:10 '   *    '
+Byte: 0763:7C ' *****  '
+Byte: 0764:10 '   *    '
+Byte: 0765:10 '   *    '
+Byte: 0766:10 '   *    '
+Byte: 0767:12 '   *  * '
+Byte: 0768:0C '    **  '
+Byte: 0769:00 '        '
+Byte: 076A:00 '        '
+Byte: 076B:
+Byte: 076C:62 Ignored
+Byte: 076D:33 Ignored
+Byte: 076E:33 Ignored
+Byte: 076F:E3 Ignored
+Byte: 0770:00 '        '
+Byte: 0771:00 '        '
+Byte: 0772:00 '        '
+Byte: 0773:42 ' *    * '
+Byte: 0774:42 ' *    * '
+Byte: 0775:42 ' *    * '
+Byte: 0776:42 ' *    * '
+Byte: 0777:46 ' *   ** '
+Byte: 0778:3A '  *** * '
+Byte: 0779:00 '        '
+Byte: 077A:00 '        '
+Byte: 077B:
+Byte: 077C:2A Ignored
+Byte: 077D:5B Ignored
+Byte: 077E:7C Ignored
+Byte: 077F:B5 Ignored
+Byte: 0780:00 '        '
+Byte: 0781:00 '        '
+Byte: 0782:00 '        '
+Byte: 0783:41 ' *     *'
+Byte: 0784:41 ' *     *'
+Byte: 0785:41 ' *     *'
+Byte: 0786:22 '  *   * '
+Byte: 0787:14 '   * *  '
+Byte: 0788:08 '    *   '
+Byte: 0789:00 '        '
+Byte: 078A:00 '        '
+Byte: 078B:
+Byte: 078C:D5 Ignored
+Byte: 078D:E5 Ignored
+Byte: 078E:CD Ignored
+Byte: 078F:FC Ignored
+Byte: 0790:00 '        '
+Byte: 0791:00 '        '
+Byte: 0792:00 '        '
+Byte: 0793:41 ' *     *'
+Byte: 0794:49 ' *  *  *'
+Byte: 0795:49 ' *  *  *'
+Byte: 0796:49 ' *  *  *'
+Byte: 0797:49 ' *  *  *'
+Byte: 0798:36 '  ** ** '
+Byte: 0799:00 '        '
+Byte: 079A:00 '        '
+Byte: 079B:
+Byte: 079C:C2 Ignored
+Byte: 079D:5D Ignored
+Byte: 079E:1B Ignored
+Byte: 079F:E3 Ignored
+Byte: 07A0:00 '        '
+Byte: 07A1:00 '        '
+Byte: 07A2:00 '        '
+Byte: 07A3:42 ' *    * '
+Byte: 07A4:24 '  *  *  '
+Byte: 07A5:18 '   **   '
+Byte: 07A6:18 '   **   '
+Byte: 07A7:24 '  *  *  '
+Byte: 07A8:42 ' *    * '
+Byte: 07A9:00 '        '
+Byte: 07AA:00 '        '
+Byte: 07AB:
+Byte: 07AC:E1 Ignored
+Byte: 07AD:C9 Ignored
+Byte: 07AE:32 Ignored
+Byte: 07AF:A9 Ignored
+Byte: 07B0:00 '        '
+Byte: 07B1:00 '        '
+Byte: 07B2:00 '        '
+Byte: 07B3:42 ' *    * '
+Byte: 07B4:42 ' *    * '
+Byte: 07B5:42 ' *    * '
+Byte: 07B6:42 ' *    * '
+Byte: 07B7:46 ' *   ** '
+Byte: 07B8:3A '  *** * '
+Byte: 07B9:02 '      * '
+Byte: 07BA:42 ' *    * '
+Byte: 07BB:
+Byte: 07BC:0E Ignored
+Byte: 07BD:02 Ignored
+Byte: 07BE:C3 Ignored
+Byte: 07BF:EA Ignored
+Byte: 07C0:00 '        '
+Byte: 07C1:00 '        '
+Byte: 07C2:00 '        '
+Byte: 07C3:7E ' ****** '
+Byte: 07C4:04 '     *  '
+Byte: 07C5:08 '    *   '
+Byte: 07C6:10 '   *    '
+Byte: 07C7:20 '  *     '
+Byte: 07C8:7E ' ****** '
+Byte: 07C9:00 '        '
+Byte: 07CA:00 '        '
+Byte: 07CB:
+Byte: 07CC:00 Ignored
+Byte: 07CD:00 Ignored
+Byte: 07CE:00 Ignored
+Byte: 07CF:00 Ignored
+Byte: 07D0:0E Ignored
+Byte: 07D1:10 Ignored
+Byte: 07D2:10 Ignored
+Byte: 07D3:10 Ignored
+Byte: 07D4:20 '  *     '
+Byte: 07D5:10 '   *    '
+Byte: 07D6:10 '   *    '
+Byte: 07D7:10 '   *    '
+Byte: 07D8:0E '    *** '
+Byte: 07D9:00 '        '
+Byte: 07DA:00 '        '
+Byte: 07DB:00 '        '
+Byte: 07DC:00 '        '
+Byte: 07DD:00 '        '
+Byte: 07DE:00 '        '
+Byte: 07DF:
+Byte: 07E0:08 Ignored
+Byte: 07E1:08 Ignored
+Byte: 07E2:08 Ignored
+Byte: 07E3:00 Ignored
+Byte: 07E4:00 Ignored
+Byte: 07E5:08 Ignored
+Byte: 07E6:08 Ignored
+Byte: 07E7:08 Ignored
+Byte: 07E8:00 '        '
+Byte: 07E9:00 '        '
+Byte: 07EA:00 '        '
+Byte: 07EB:00 '        '
+Byte: 07EC:00 '        '
+Byte: 07ED:00 '        '
+Byte: 07EE:00 '        '
+Byte: 07EF:00 '        '
+Byte: 07F0:18 '   **   '
+Byte: 07F1:04 '     *  '
+Byte: 07F2:04 '     *  '
+Byte: 07F3:
+Byte: 07F4:02 Ignored
+Byte: 07F5:04 Ignored
+Byte: 07F6:04 Ignored
+Byte: 07F7:04 Ignored
+Byte: 07F8:18 '   **   '
+Byte: 07F9:00 '        '
+Byte: 07FA:00 '        '
+Byte: 07FB:00 '        '
+Byte: 07FC:D7 '** * ***'
+Byte: 07FD:FE '******* '
+Byte: 07FE:CE '**  *** '
+Byte: 07FF:E1 '***    *'
+Byte: 0800:30 '  **    '
+Byte: 0801:49 ' *  *  *'
+Byte: 0802:06 '     ** '
+Byte: 0803:
+Byte: 0804:00 Ignored
+Byte: 0805:00 Ignored
+Byte: 0806:00 Ignored
+Byte: 0807:00 Ignored
+Byte: 0808:00 Ignored
+Byte: 0809:00 Ignored
+Byte: 080A:00 Ignored
+Byte: 080B:00 Ignored
+Byte: 080C:00 Ignored
+Byte: 080D:00 Ignored
+Byte: 080E:00 Ignored
+Byte: 080F:00 Ignored
+Byte: 0810:01 Ignored
+Byte: 0811:12 Ignored
+Byte: 0812:F0 Ignored
+Byte: 0813:59 Ignored
+Byte: 0814:24 '  *  *  '
+Byte: 0815:49 ' *  *  *'
+Byte: 0816:12 '   *  * '
+Byte: 0817:24 '  *  *  '
+Byte: 0818:49 ' *  *  *'
+Byte: 0819:12 '   *  * '
+Byte: 081A:24 '  *  *  '
+Byte: 081B:49 ' *  *  *'
+Byte: 081C:12 '   *  * '
+Byte: 081D:00 '        '
+Byte: 081E:00 '        '
+Byte: 081F:
+Byte: 0820:00 Ignored
+Byte: 0821:00 Ignored
+Byte: 0822:00 Ignored
+Byte: 0823:00 Ignored
+Byte: 0824:02 Ignored
+Byte: 0825:02 Ignored
+Byte: 0826:00 Ignored
+Byte: 0827:00 Ignored
+Byte: 0828:5C Ignored
+Byte: 0829:40 Ignored
+Byte: 082A:40 Ignored
+Byte: 082B:60 Ignored
+Byte: 082C:29 '  * *  *'
+Byte: 082D:C9 '**  *  *'
+Byte: 082E:E5 '***  * *'
+Byte: 082F:2A '  * * * '
+Byte: 0830:00 '        '
+Byte: 0831:00 '        '
+Byte: 0832:00 '        '
+Byte: 0833:3A '  *** * '
+Byte: 0834:46 ' *   ** '
+Byte: 0835:42 ' *    * '
+Byte: 0836:42 ' *    * '
+Byte: 0837:
+Byte: 0838:3A Ignored
+Byte: 0839:02 Ignored
+Byte: 083A:02 Ignored
+Byte: 083B:06 Ignored
+Byte: 083C:40 ' *      '
+Byte: 083D:CD '**  ** *'
+Byte: 083E:84 '*    *  '
+Byte: 083F:03 '      **'
+Byte: 0840:00 '        '
+Byte: 0841:00 '        '
+Byte: 0842:00 '        '
+Byte: 0843:5C ' * ***  '
+Byte: 0844:62 ' **   * '
+Byte: 0845:40 ' *      '
+Byte: 0846:40 ' *      '
+Byte: 0847:
+Byte: 0848:40 Ignored
+Byte: 0849:00 Ignored
+Byte: 084A:00 Ignored
+Byte: 084B:00 Ignored
+Byte: 084C:FE Ignored
+Byte: 084D:F0 Ignored
+Byte: 084E:CA Ignored
+Byte: 084F:9D Ignored
+Byte: 0850:00 '        '
+Byte: 0851:00 '        '
+Byte: 0852:00 '        '
+Byte: 0853:3C '  ****  '
+Byte: 0854:42 ' *    * '
+Byte: 0855:30 '  **    '
+Byte: 0856:0C '    **  '
+Byte: 0857:42 ' *    * '
+Byte: 0858:3C '  ****  '
+Byte: 0859:00 '        '
+Byte: 085A:00 '        '
+Byte: 085B:
+Byte: 085C:2B Ignored
+Byte: 085D:C9 Ignored
+Byte: 085E:E5 Ignored
+Byte: 085F:2A Ignored
+Byte: 0860:00 '        '
+Byte: 0861:10 '   *    '
+Byte: 0862:10 '   *    '
+Byte: 0863:7C ' *****  '
+Byte: 0864:10 '   *    '
+Byte: 0865:10 '   *    '
+Byte: 0866:10 '   *    '
+Byte: 0867:12 '   *  * '
+Byte: 0868:0C '    **  '
+Byte: 0869:00 '        '
+Byte: 086A:00 '        '
+Byte: 086B:
+Byte: 086C:62 Ignored
+Byte: 086D:33 Ignored
+Byte: 086E:33 Ignored
+Byte: 086F:E3 Ignored
+Byte: 0870:00 '        '
+Byte: 0871:00 '        '
+Byte: 0872:00 '        '
+Byte: 0873:42 ' *    * '
+Byte: 0874:42 ' *    * '
+Byte: 0875:42 ' *    * '
+Byte: 0876:42 ' *    * '
+Byte: 0877:46 ' *   ** '
+Byte: 0878:3A '  *** * '
+Byte: 0879:00 '        '
+Byte: 087A:00 '        '
+Byte: 087B:
+Byte: 087C:2A Ignored
+Byte: 087D:5B Ignored
+Byte: 087E:7C Ignored
+Byte: 087F:B5 Ignored
+Byte: 0880:00 '        '
+Byte: 0881:00 '        '
+Byte: 0882:00 '        '
+Byte: 0883:41 ' *     *'
+Byte: 0884:41 ' *     *'
+Byte: 0885:41 ' *     *'
+Byte: 0886:22 '  *   * '
+Byte: 0887:14 '   * *  '
+Byte: 0888:08 '    *   '
+Byte: 0889:00 '        '
+Byte: 088A:00 '        '
+Byte: 088B:
+Byte: 088C:D5 Ignored
+Byte: 088D:E5 Ignored
+Byte: 088E:CD Ignored
+Byte: 088F:FC Ignored
+Byte: 0890:00 '        '
+Byte: 0891:00 '        '
+Byte: 0892:00 '        '
+Byte: 0893:41 ' *     *'
+Byte: 0894:49 ' *  *  *'
+Byte: 0895:49 ' *  *  *'
+Byte: 0896:49 ' *  *  *'
+Byte: 0897:49 ' *  *  *'
+Byte: 0898:36 '  ** ** '
+Byte: 0899:00 '        '
+Byte: 089A:00 '        '
+Byte: 089B:
+Byte: 089C:C2 Ignored
+Byte: 089D:5D Ignored
+Byte: 089E:1B Ignored
+Byte: 089F:E3 Ignored
+Byte: 08A0:00 '        '
+Byte: 08A1:00 '        '
+Byte: 08A2:00 '        '
+Byte: 08A3:42 ' *    * '
+Byte: 08A4:24 '  *  *  '
+Byte: 08A5:18 '   **   '
+Byte: 08A6:18 '   **   '
+Byte: 08A7:24 '  *  *  '
+Byte: 08A8:42 ' *    * '
+Byte: 08A9:00 '        '
+Byte: 08AA:00 '        '
+Byte: 08AB:
+Byte: 08AC:E1 Ignored
+Byte: 08AD:C9 Ignored
+Byte: 08AE:32 Ignored
+Byte: 08AF:A9 Ignored
+Byte: 08B0:00 '        '
+Byte: 08B1:00 '        '
+Byte: 08B2:00 '        '
+Byte: 08B3:42 ' *    * '
+Byte: 08B4:42 ' *    * '
+Byte: 08B5:42 ' *    * '
+Byte: 08B6:42 ' *    * '
+Byte: 08B7:46 ' *   ** '
+Byte: 08B8:3A '  *** * '
+Byte: 08B9:02 '      * '
+Byte: 08BA:42 ' *    * '
+Byte: 08BB:
+Byte: 08BC:0E Ignored
+Byte: 08BD:02 Ignored
+Byte: 08BE:C3 Ignored
+Byte: 08BF:EA Ignored
+Byte: 08C0:00 '        '
+Byte: 08C1:00 '        '
+Byte: 08C2:00 '        '
+Byte: 08C3:7E ' ****** '
+Byte: 08C4:04 '     *  '
+Byte: 08C5:08 '    *   '
+Byte: 08C6:10 '   *    '
+Byte: 08C7:20 '  *     '
+Byte: 08C8:7E ' ****** '
+Byte: 08C9:00 '        '
+Byte: 08CA:00 '        '
+Byte: 08CB:
+Byte: 08CC:00 Ignored
+Byte: 08CD:00 Ignored
+Byte: 08CE:00 Ignored
+Byte: 08CF:00 Ignored
+Byte: 08D0:0E Ignored
+Byte: 08D1:10 Ignored
+Byte: 08D2:10 Ignored
+Byte: 08D3:10 Ignored
+Byte: 08D4:20 '  *     '
+Byte: 08D5:10 '   *    '
+Byte: 08D6:10 '   *    '
+Byte: 08D7:10 '   *    '
+Byte: 08D8:0E '    *** '
+Byte: 08D9:00 '        '
+Byte: 08DA:00 '        '
+Byte: 08DB:00 '        '
+Byte: 08DC:00 '        '
+Byte: 08DD:00 '        '
+Byte: 08DE:00 '        '
+Byte: 08DF:
+Byte: 08E0:08 Ignored
+Byte: 08E1:08 Ignored
+Byte: 08E2:08 Ignored
+Byte: 08E3:00 Ignored
+Byte: 08E4:00 Ignored
+Byte: 08E5:08 Ignored
+Byte: 08E6:08 Ignored
+Byte: 08E7:08 Ignored
+Byte: 08E8:00 '        '
+Byte: 08E9:00 '        '
+Byte: 08EA:00 '        '
+Byte: 08EB:00 '        '
+Byte: 08EC:00 '        '
+Byte: 08ED:00 '        '
+Byte: 08EE:00 '        '
+Byte: 08EF:00 '        '
+Byte: 08F0:18 '   **   '
+Byte: 08F1:04 '     *  '
+Byte: 08F2:04 '     *  '
+Byte: 08F3:
+Byte: 08F4:02 Ignored
+Byte: 08F5:04 Ignored
+Byte: 08F6:04 Ignored
+Byte: 08F7:04 Ignored
+Byte: 08F8:FF '********'
