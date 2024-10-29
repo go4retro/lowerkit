@@ -1,12 +1,32 @@
-// C program to read a file using fgetc()
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-void print(unsigned char ch) {
+/*
+  This is a quick and dirty program to parse the binary char rom files fromi
+  the following archives:
+
+  http://cpmarchives.classiccmp.org//trs80/Software/Model%201/C/Character%20Development%20Program%20for%20Lowerkit%20ROMs%20(1981)(Dennis%20Bathory-Kitsz)[BAS].zip
+  http://cpmarchives.classiccmp.org//trs80/Software/Model%201/C/Character%20Development%20Program%20for%20Lowerkit%20ROMs%20(1981)(Dennis%20Bathory-Kitsz)[a][BAS].zip
+  http://cpmarchives.classiccmp.org//trs80/Software/Model%201/C/Character%20Development%20Program%20for%20Lowerkit%20ROMs%20(1981)(Dennis%20Bathory-Kitsz)[a2][BAS].zip
+  http://cpmarchives.classiccmp.org//trs80/Software/Model%201/C/Character%20Development%20Program%20for%20Lowerkit%20ROMs%20(1981)(Dennis%20Bathory-Kitsz)[a3][BAS].zip
+  http://cpmarchives.classiccmp.org//trs80/Software/Model%201/C/Character%20Development%20Program%20for%20Lowerkit%20ROMs%20(1981)(Dennis%20Bathory-Kitsz)[a4][BAS].zip
+
+  and
+
+  http://cpmarchives.classiccmp.org//trs80/Software/Model%201/L/Lowerkit%20II%20ROM%20Development%20v2.0%20(1983)(Dennis%20Bathory-Kitsz-Green%20Mountain%20Micro)[BAS].zip
+
+  (also available at http://cpmarchives.classiccmp.org/trs80/Software/Model%201/C/)
+
+  which look like they run on a TRS-80 Model 1.
+
+*/
+
+
+void print(int c, unsigned char ch) {
   unsigned char v = 128;
 
-  printf("%2.2X '", ch);
+  printf("CH: %2.2X %2.2X '", c, ch);
   for(char i = 0; i < 8; i++) {
     printf("%s", (ch & v ? "*":" "));
     v=v/2;
@@ -16,15 +36,15 @@ void print(unsigned char ch) {
 
 int main(int argc, char** argv) {
   
-    // Opening file
     FILE *file_ptr;
-    unsigned char array[4096];
     int i = 0;
     int j = 0;
+    int k = 0;
+    int c = 0;
 
     // Character buffer that stores the read character
     // till the next iteration
-    char ch;
+    unsigned char ch;
 
     // Opening file in reading mode
     file_ptr = fopen(argv[1], "rb");
@@ -34,42 +54,54 @@ int main(int argc, char** argv) {
           return EXIT_FAILURE;
     }
 
-    // Printing what is written in file
-    // character by character using loop.
-    do {
+    for (;;) {
       ch = fgetc(file_ptr);
-      if(j == 8) {
-        array[i++] = ch;
+      if(feof(file_ptr))
+        break;
+      if(j < 8) {
+        printf("Skipping preamble byte %d (%2.2X:'%c')\n",j,ch,ch);
       } else {
-        printf("Skipping preamble byte %d (%2.2X)\n",j,ch);
-        j++;
-      }
-    } while (!feof(file_ptr) && i <= 4096);
-
-    printf("Found %4.4X bytes\n",i);
-
-    char l = 0;
-    for(int k = 0; k < i; k++) {
-      printf("Byte: %4.4X:",k);
-      l++;
-      switch(l) {
-        case 1:
-        case 2:
-        case 3:
-          printf("%2.2X Ignored\n",array[k]);
-          break;
-        case 4:
-          printf("%2.2X Ignored\n",array[k]);
-          if(array[k] == 0)
-            l = 0;
+        printf("Byte: %4.4X:",j);
+        switch(k) {
+          case 0x00:
+          case 0x01:
+          case 0x02:
+          case 0x03:
+            printf("Ignoring block value %2.2X\n",ch);
             break;
-        case 16:
-          printf("\n");
-          l = 0;
-            break;
-        default:
-          print(array[k]);
+          default:
+            i++;
+            switch(i) {
+              case 16:
+                i = 0;
+                c++;
+                printf("%2.2X Ignored: ",ch);
+                print(0, ch);
+                break;
+              case 13:
+                if(c == 0x7f) {
+                  c++;
+                  i=1;
+                  print(c,ch);
+                  break;
+                }
+              case 14:
+              case 15:
+                printf("%2.2X Ignored: ",ch);
+                print(0, ch);
+                break;
+              default:
+                print(c, ch);
+                if(c == 0x7f && i==12)
+                  printf("End of main char set.  Extra characters follow\n");
+                break;
+            }
+        }
+        k++;
+        if(k==0x102)
+          k = 0;
       }
+      j++;
     }
 
     // Closing the file
