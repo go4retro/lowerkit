@@ -28,9 +28,9 @@ void print(int pos, int row, unsigned char ch) {
   if(row < 12) {
     for(char i = 0; i < 8; i++) {
       if(ch & v)
-        printf("<rect width=\"%d\" height=\"%d\" y=\"%d\" x=\"%d\" fill=\"lawngreen\" />\n",xp,xp,(pos/32)*13*xp+(row*xp)+xp,(pos%32)*9*xp+(i*xp)+xp);
-      else
         printf("<rect width=\"%d\" height=\"%d\" y=\"%d\" x=\"%d\" fill=\"darkgreen\" />\n",xp,xp,(pos/32)*13*xp+(row*xp)+xp,(pos%32)*9*xp+(i*xp)+xp);
+      else
+        printf("<rect width=\"%d\" height=\"%d\" y=\"%d\" x=\"%d\" fill=\"lawngreen\" />\n",xp,xp,(pos/32)*13*xp+(row*xp)+xp,(pos%32)*9*xp+(i*xp)+xp);
       v=v/2;
     }
   }
