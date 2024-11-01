@@ -33,7 +33,6 @@ void print(int pos, int row, unsigned char ch) {
         printf("<rect width=\"%d\" height=\"%d\" y=\"%d\" x=\"%d\" fill=\"darkgreen\" />\n",xp,xp,(pos/32)*13*xp+(row*xp)+xp,(pos%32)*9*xp+(i*xp)+xp);
       v=v/2;
     }
-    printf("'\n");
   }
 }
 
@@ -51,7 +50,7 @@ int main(int argc, char** argv) {
           return EXIT_FAILURE;
     }
 
-    printf("<svg xmlns=\"http://www.w3.org/2000/svg\">\n");
+    printf("<svg width=\"%d\" height=\"%d\" xmlns=\"http://www.w3.org/2000/svg\">\n",32*xp*9+xp,4*13*xp+xp);
     printf("<rect width=\"%d\" height=\"%d\" fill=\"black\" />\n",32*xp*9+xp,4*13*xp+xp);
 
     for (int i = 0; i < 128;i++) {
