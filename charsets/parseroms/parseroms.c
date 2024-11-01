@@ -1,8 +1,20 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 /*
+    parseroms - First attempt at parsing /CMD encoded ROM files
+    Copyright Jim Brain and RETRO Innovations, 2024
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; version 2 of the License only.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
   This is a quick and dirty program to parse the binary char rom files fromi
   the following archives:
 
@@ -19,9 +31,11 @@
   (also available at http://cpmarchives.classiccmp.org/trs80/Software/Model%201/C/)
 
   which look like they run on a TRS-80 Model 1.
-
 */
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 void print(int c, unsigned char ch) {
   unsigned char v = 128;
@@ -42,8 +56,6 @@ int main(int argc, char** argv) {
     int k = 0;
     int c = 0;
 
-    // Character buffer that stores the read character
-    // till the next iteration
     unsigned char ch;
 
     // Opening file in reading mode

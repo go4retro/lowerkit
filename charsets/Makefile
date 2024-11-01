@@ -1,24 +1,9 @@
-TARGET = parseroms
-LIBS = -lm
-CC = gcc
-CFLAGS = -g -Wall
+TOPTARGETS := default all clean create
 
-.PHONY: default all clean
+SUBDIRS := basic simpleparse parseroms mkroms drawsvg
 
-default: $(TARGET)
-all: default
+$(TOPTARGETS): $(SUBDIRS)
+$(SUBDIRS):
+	$(MAKE) -C $@ $(MAKECMDGOALS)
 
-OBJS = $(patsubst %.c, %.o, $(wildcard *.c))
-HDRS = $(wildcard *.h)
-
-%.o: %.c $(HDRS)
-	$(CC) $(CFLAGS) -c $< -o $@
-
-.PRECIOUS: $(TARGET) $(OBJS)
-
-$(TARGET): $(OBJS)
-	$(CC) $(OBJS) -Wall $(LIBS) -o $@
-
-clean:
-	-rm -f *.o
-	-rm -f $(TARGET)
+.PHONY: $(TOPTARGETS) $(SUBDIRS)

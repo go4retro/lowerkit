@@ -1,4 +1,4 @@
-TARGET = parsebas
+TARGET = simpleparse
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall
@@ -8,14 +8,20 @@ CFLAGS = -g -Wall
 default: $(TARGET) create
 all: default
 
-FILES = $(patsubst %.xtr, %.xtr.txt, $(wildcard *.xtr))
+FONT_FILES = $(wildcard ../*.bin)
+FONT_FILES += $(wildcard ../*.xxx)
+
+FILES = $(filter %.fnt.txt,$(FONT_FILES:.bin=.fnt.txt) $(FONT_FILES:.xxx=.fnt.txt))
 OBJS = $(patsubst %.c, %.o, $(wildcard *.c))
 HDRS = $(wildcard *.h)
 
 create: $(TARGET) $(FILES)
 
-%.xtr.txt: %.xtr $(TARGET)
-	./$(TARGET) $< $<.bin > $@
+%.fnt.txt: %.bin $(TARGET)
+	./$(TARGET) $< > $(notdir $@)
+
+%.fnt.txt: %.xxx $(TARGET)
+	./$(TARGET) $< > $(notdir $@)
 
 %.o: %.c $(HDRS)
 	$(CC) $(CFLAGS) -c $< -o $@
@@ -28,5 +34,4 @@ $(TARGET): $(OBJS)
 clean:
 	-rm -f *.o
 	-rm -f $(TARGET)
-	-rm -f *.xtr.txt
-	-rm -f *.bin
+	-rm -f $(notdir $(FILES))

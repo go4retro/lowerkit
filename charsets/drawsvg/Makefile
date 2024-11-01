@@ -1,4 +1,4 @@
-TARGET = parsebas
+TARGET = drawsvg
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall
@@ -8,14 +8,17 @@ CFLAGS = -g -Wall
 default: $(TARGET) create
 all: default
 
-FILES = $(patsubst %.xtr, %.xtr.txt, $(wildcard *.xtr))
+FONT_ROMS = $(wildcard ../mkroms/*.bin)
+FONT_ROMS += $(wildcard ../basic/*.xtr.bin)
+
+FILES = $(filter %.svg,$(FONT_ROMS:.bin=.svg))
 OBJS = $(patsubst %.c, %.o, $(wildcard *.c))
 HDRS = $(wildcard *.h)
 
 create: $(TARGET) $(FILES)
 
-%.xtr.txt: %.xtr $(TARGET)
-	./$(TARGET) $< $<.bin > $@
+%.svg: %.bin $(TARGET)
+	./$(TARGET) $< > $(notdir $@)
 
 %.o: %.c $(HDRS)
 	$(CC) $(CFLAGS) -c $< -o $@
@@ -28,5 +31,5 @@ $(TARGET): $(OBJS)
 clean:
 	-rm -f *.o
 	-rm -f $(TARGET)
-	-rm -f *.xtr.txt
-	-rm -f *.bin
+	-rm -f *.svg
+
